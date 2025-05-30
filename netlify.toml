@@ -5,6 +5,14 @@
 [build.environment]
   NODE_VERSION = "18"
 
+# HTTPS redirect
+[[redirects]]
+  from = "http://northernscript.netlify.app/*"
+  to = "https://northernscript.netlify.app/:splat"
+  status = 301
+  force = true
+
+# SPA routing
 [[redirects]]
   from = "/*"
   to = "/index.html"
@@ -14,3 +22,12 @@
   command = "npm run docs:dev"
   port = 5173
   publish = ".vitepress/dist"
+
+# Security headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
