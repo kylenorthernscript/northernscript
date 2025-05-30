@@ -3,16 +3,29 @@ Allow: /
 Disallow: /assets/
 Disallow: /*.js$
 Disallow: /*.css$
+Disallow: /*.json$
+Disallow: /_app/
+Disallow: /.vitepress/
 
 # Sitemap
 Sitemap: https://blogs.northernscript.jp/sitemap.xml
 
-# Popular search engines
+# Search engines
 User-agent: Googlebot
 Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-# Crawl-delay for polite crawling
 Crawl-delay: 1
+
+User-agent: Bingbot  
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+# Block aggressive crawlers
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /

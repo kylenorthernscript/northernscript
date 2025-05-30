@@ -113,6 +113,21 @@ export default defineConfig({
     hostname: 'https://blogs.northernscript.jp'
   },
   cleanUrls: true,
+  vite: {
+    optimizeDeps: {
+      include: ['vue']
+    },
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks: {
+            vendor: ['vue']
+          }
+        }
+      },
+      chunkSizeWarningLimit: 1000
+    }
+  },
   head: [
     ['meta', { charset: 'utf-8' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
@@ -192,7 +207,7 @@ export default defineConfig({
           const src = token.attrs[srcIndex][1]
           const alt = token.content
           
-          return `<img src="${src}" alt="${alt}" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">`
+          return `<img src="${src}" alt="${alt}" loading="lazy" decoding="async" fetchpriority="low" style="max-width: 100%; height: auto; contain: layout style;">`
         }
       }
     },
