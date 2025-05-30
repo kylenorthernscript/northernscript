@@ -115,22 +115,7 @@ export default defineConfig({
   cleanUrls: true,
   vite: {
     build: {
-      rollupOptions: {
-        output: {
-          manualChunks(id) {
-            // Create separate chunks for large libraries
-            if (id.includes('node_modules')) {
-              return 'vendor'
-            }
-          }
-        }
-      },
-      chunkSizeWarningLimit: 1000,
-      minify: 'esbuild',
-      target: 'es2020'
-    },
-    optimizeDeps: {
-      exclude: ['vue']
+      chunkSizeWarningLimit: 1000
     }
   },
   head: [
