@@ -105,8 +105,8 @@ function getOrganizedSidebar() {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Project",
-  description: " ",
+  title: "Northern Script",
+  description: "のーざんすくりぷと",
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -138,7 +138,8 @@ export default defineConfig({
 
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/kylenorthernscript' },
+      { icon: 'twitter', link: 'https://x.com/kyart_tokyo' }
     ]
   }
 })
