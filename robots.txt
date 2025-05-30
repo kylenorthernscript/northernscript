@@ -1,8 +1,18 @@
 User-agent: *
 Allow: /
+Disallow: /assets/
+Disallow: /*.js$
+Disallow: /*.css$
 
 # Sitemap
 Sitemap: https://blogs.northernscript.jp/sitemap.xml
+
+# Popular search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1

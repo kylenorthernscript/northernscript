@@ -199,8 +199,8 @@ export default defineConfig({
 
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/kylenorthernscript' },
-      { icon: 'twitter', link: 'https://x.com/kyart_tokyo' }
+      { icon: 'github', link: 'https://github.com/kylenorthernscript', ariaLabel: 'GitHubプロフィールを見る' },
+      { icon: 'twitter', link: 'https://x.com/kyart_tokyo', ariaLabel: 'Twitterプロフィールを見る' }
     ]
   }
 })
