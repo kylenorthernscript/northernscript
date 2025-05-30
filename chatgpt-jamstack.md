@@ -13,11 +13,13 @@ next: false
 :::
 
 <div class="book-detail-header">
-  <img src="/chatgpt-jamstack-cover.jpg" alt="ChatGPT Jamstack Book Cover" class="book-detail-cover">
+  <img src="/chatgpt-jamstack-tb14-cover.jpg" alt="ChatGPTと語りながら作る、Jamstack入門 Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
-    <a href="https://www.amazon.co.jp/dp/B0CJHP65Y8/" target="_blank" rel="noopener noreferrer nofollow" class="purchase-button purchase-button-amazon">
-      📖 Amazonで購入する
-    </a>
+    <div class="purchase-button-top">
+      <a href="https://techbookfest.org/product/gsyn8dF6vYivaYytGLLkpc?productVariantID=gS6KPiyvZ4mc8EFNdfJSy4" target="_blank" class="btn-purchase" rel="noopener noreferrer">
+        📚 技術書典で購入する
+      </a>
+    </div>
     <h2>書籍概要</h2>
     <p>「米プログラマーの『ぼく』がGPT先輩に質問しつつJamstackの基本概念や実用的な技術を学ぶことができます。」</p>
     <p>本書は、ChatGPTとの実際の対話を再現しながら、Jamstackの基本概念から実践的な技術まで学べる革新的な学習書です。従来の一方的な解説書とは異なり、読者も実際にChatGPTに質問しながら学習を進められます。</p>

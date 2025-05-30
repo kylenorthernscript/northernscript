@@ -9,15 +9,17 @@ next: false
 # Jamstack以前に知りたかったこと
 
 <div class="book-detail-header">
-  <img src="/jamstack-basics-cover.jpg" alt="Jamstack Basics Book Cover" class="book-detail-cover">
+  <img src="/jamstack-basics-tb13-cover.png" alt="Jamstack以前に知りたかったこと Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="tip-box">
       <strong>のーざんすくりぷと</strong><br>
       本書は当サイト「Northern Script（のーざんすくりぷと）」シリーズの一冊として、Jamstackの基礎からしっかりと学ぶための入門書です。
     </div>
-    <a href="https://techbookfest.org/product/qWfX14M1JL0WKz3RnGD4nK?productVariantID=6CAZ4Wxmb2AURHDZfyxC2b" target="_blank" rel="noopener noreferrer" class="purchase-button purchase-button-top">
-      📚 技術書典で購入する
-    </a>
+    <div class="purchase-button-top">
+      <a href="https://techbookfest.org/product/qWfX14M1JL0WKz3RnGD4nK?productVariantID=6CAZ4Wxmb2AURHDZfyxC2b" target="_blank" class="btn-purchase" rel="noopener noreferrer">
+        📚 技術書典で購入する
+      </a>
+    </div>
     <h2>書籍概要</h2>
     <p>「Jamstackを使用すると高度化、複雑化してきたバックエンド開発の悩みから開放されます。アプリケーション開発そのものと直接関係の無いサーバー管理など面倒で責任の重いことしなくて良くなるからです。」</p>
   </div>
