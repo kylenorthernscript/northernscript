@@ -21,111 +21,111 @@ hero:
 ### 技術書典18（2025年5月）
 
 <div class="book-grid">
-  <a href="/solo-git-to-team" class="book-item-link">
-    <div class="book-item">
-      <img src="/git-team-cover.png" alt="ひとりGitからの卒業" class="book-cover">
+  <a href="/solo-git-to-team" class="book-item-link" aria-label="ひとりGitからの卒業 ― チーム開発への最初の一歩の詳細を見る">
+    <article class="book-item">
+      <img src="/git-team-cover.png" alt="ひとりGitからの卒業 ― チーム開発への最初の一歩の表紙" class="book-cover" width="60" height="auto" loading="lazy">
       <div class="book-info">
         <h4>ひとりGitからの卒業 ― チーム開発への最初の一歩</h4>
         <span class="book-link">詳細を見る</span>
       </div>
-    </div>
+    </article>
   </a>
-  <a href="/cloudfront-aws-cdn" class="book-item-link">
-    <div class="book-item">
-      <img src="/cloudfront-aws-cover.png" alt="CloudFrontで始めるAWS CDN" class="book-cover">
+  <a href="/cloudfront-aws-cdn" class="book-item-link" aria-label="CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニックの詳細を見る">
+    <article class="book-item">
+      <img src="/cloudfront-aws-cover.png" alt="CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニックの表紙" class="book-cover" width="60" height="auto" loading="lazy">
       <div class="book-info">
         <h4>CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニック</h4>
         <span class="book-link">詳細を見る</span>
       </div>
-    </div>
+    </article>
   </a>
 </div>
 
 ### 技術書典17（2024年11月）
 
 <div class="book-grid">
-  <a href="/vitepress-book" class="book-item-link">
-    <div class="book-item">
-      <img src="/vitepress-cover.jpg" alt="VitePress入門" class="book-cover">
+  <a href="/vitepress-book" class="book-item-link" aria-label="Markdownでドキュメントサイト爆速開発 VitePress入門の詳細を見る">
+    <article class="book-item">
+      <img src="/vitepress-cover.jpg" alt="Markdownでドキュメントサイト爆速開発 VitePress入門の表紙" class="book-cover" width="60" height="auto" loading="lazy">
       <div class="book-info">
         <h4>Markdownでドキュメントサイト爆速開発 VitePress入門</h4>
         <span class="book-link">詳細を見る</span>
       </div>
-    </div>
+    </article>
   </a>
 </div>
 
 ### 技術書典16（2024年5月）
 
 <div class="book-grid">
-  <a href="/niigata-sake-silver" class="book-item-link">
-    <div class="book-item">
-      <img src="/sake-silver-new.jpg" alt="新潟清酒達人検定 銀の達人" class="book-cover">
+  <a href="/niigata-sake-silver" class="book-item-link" aria-label="新潟清酒達人検定　銀の達人受験戦記 with Supabaseの詳細を見る">
+    <article class="book-item">
+      <img src="/sake-silver-new.jpg" alt="新潟清酒達人検定　銀の達人受験戦記 with Supabaseの表紙" class="book-cover" width="60" height="auto" loading="lazy">
       <div class="book-info">
         <h4>新潟清酒達人検定　銀の達人受験戦記 with Supabase</h4>
         <span class="book-link">詳細を見る</span>
       </div>
-    </div>
+    </article>
   </a>
-  <a href="/niigata-sake-copper" class="book-item-link">
-    <div class="book-item">
-      <img src="/sake-copper-new.jpg" alt="新潟清酒達人検定 銅の達人" class="book-cover">
+  <a href="/niigata-sake-copper" class="book-item-link" aria-label="新潟清酒達人検定　銅の達人受験戦記の詳細を見る">
+    <article class="book-item">
+      <img src="/sake-copper-new.jpg" alt="新潟清酒達人検定　銅の達人受験戦記の表紙" class="book-cover" width="60" height="auto" loading="lazy">
       <div class="book-info">
         <h4>新潟清酒達人検定　銅の達人受験戦記</h4>
         <span class="book-link">詳細を見る</span>
       </div>
-    </div>
+    </article>
   </a>
 </div>
 
 ### 技術書典15（2023年11月）
 
 <div class="book-grid">
-  <a href="/storyblok-book" class="book-item-link">
-    <div class="book-item">
-      <img src="/storyblok-tb15-cover.jpg" alt="Storyblok入門" class="book-cover">
+  <a href="/storyblok-book" class="book-item-link" aria-label="高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）の詳細を見る">
+    <article class="book-item">
+      <img src="/storyblok-tb15-cover.jpg" alt="高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）の表紙" class="book-cover" width="60" height="auto" loading="lazy">
       <div class="book-info">
         <h4>高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）</h4>
         <span class="book-link">詳細を見る</span>
       </div>
-    </div>
+    </article>
   </a>
 </div>
 
 ### 技術書典14（2023年5月）
 
 <div class="book-grid">
-  <a href="/chatgpt-jamstack" class="book-item-link">
-    <div class="book-item">
-      <img src="/chatgpt-jamstack-tb14-cover.jpg" alt="ChatGPTと語りながら作る、Jamstack入門" class="book-cover">
+  <a href="/chatgpt-jamstack" class="book-item-link" aria-label="ChatGPTと語りながら作る、Jamstack入門の詳細を見る">
+    <article class="book-item">
+      <img src="/chatgpt-jamstack-tb14-cover.jpg" alt="ChatGPTと語りながら作る、Jamstack入門の表紙" class="book-cover" width="60" height="auto" loading="lazy">
       <div class="book-info">
         <h4>ChatGPTと語りながら作る、Jamstack入門</h4>
         <span class="book-link">詳細を見る</span>
       </div>
-    </div>
+    </article>
   </a>
 </div>
 
 ### 技術書典13（2022年11月）
 
 <div class="book-grid">
-  <a href="/jamstack-realtime-scoreboard" class="book-item-link">
-    <div class="book-item">
-      <img src="/jamstack-backend-tb13-cover.png" alt="バックエンドエンジニアによる初めてのJamstack" class="book-cover">
+  <a href="/jamstack-realtime-scoreboard" class="book-item-link" aria-label="バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発の詳細を見る">
+    <article class="book-item">
+      <img src="/jamstack-backend-tb13-cover.png" alt="バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発の表紙" class="book-cover" width="60" height="auto" loading="lazy">
       <div class="book-info">
         <h4>バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発</h4>
         <span class="book-link">詳細を見る</span>
       </div>
-    </div>
+    </article>
   </a>
-  <a href="/jamstack-basics" class="book-item-link">
-    <div class="book-item">
-      <img src="/jamstack-basics-tb13-cover.png" alt="Jamstack以前に知りたかったこと" class="book-cover">
+  <a href="/jamstack-basics" class="book-item-link" aria-label="Jamstack以前に知りたかったことの詳細を見る">
+    <article class="book-item">
+      <img src="/jamstack-basics-tb13-cover.png" alt="Jamstack以前に知りたかったことの表紙" class="book-cover" width="60" height="auto" loading="lazy">
       <div class="book-info">
         <h4>Jamstack以前に知りたかったこと</h4>
         <span class="book-link">詳細を見る</span>
       </div>
-    </div>
+    </article>
   </a>
 </div>
 
@@ -134,32 +134,32 @@ hero:
 ### 技術の泉シリーズ
 
 <div class="book-grid">
-  <a href="/storyblok-commercial" class="book-item-link">
-    <div class="book-item">
-      <img src="/storyblok-book-cover.png" alt="高機能ヘッドレスCMS『Storyblok』入門" class="book-cover">
+  <a href="/storyblok-commercial" class="book-item-link" aria-label="高機能ヘッドレスCMS『Storyblok』入門の詳細を見る">
+    <article class="book-item">
+      <img src="/storyblok-book-cover.png" alt="高機能ヘッドレスCMS『Storyblok』入門の表紙" class="book-cover" width="60" height="auto" loading="lazy">
       <div class="book-info">
         <h4>高機能ヘッドレスCMS『Storyblok』入門</h4>
         <span class="book-link">詳細を見る</span>
       </div>
-    </div>
+    </article>
   </a>
-  <a href="/chatgpt-jamstack-commercial" class="book-item-link">
-    <div class="book-item">
-      <img src="/chatgpt-jamstack-cover.png" alt="ChatGPTと語りながら作るJamstack入門" class="book-cover">
+  <a href="/chatgpt-jamstack-commercial" class="book-item-link" aria-label="ChatGPTと語りながら作るJamstack入門の詳細を見る">
+    <article class="book-item">
+      <img src="/chatgpt-jamstack-cover.png" alt="ChatGPTと語りながら作るJamstack入門の表紙" class="book-cover" width="60" height="auto" loading="lazy">
       <div class="book-info">
         <h4>ChatGPTと語りながら作るJamstack入門</h4>
         <span class="book-link">詳細を見る</span>
       </div>
-    </div>
+    </article>
   </a>
-  <a href="/jamstack-backend-engineer" class="book-item-link">
-    <div class="book-item">
-      <img src="/jamstack-scoreboard-cover.png" alt="バックエンドエンジニアによる初めてのJamstack" class="book-cover">
+  <a href="/jamstack-backend-engineer" class="book-item-link" aria-label="バックエンドエンジニアによる初めてのJamstackの詳細を見る">
+    <article class="book-item">
+      <img src="/jamstack-scoreboard-cover.png" alt="バックエンドエンジニアによる初めてのJamstackの表紙" class="book-cover" width="60" height="auto" loading="lazy">
       <div class="book-info">
         <h4>バックエンドエンジニアによる初めてのJamstack</h4>
         <span class="book-link">詳細を見る</span>
       </div>
-    </div>
+    </article>
   </a>
 </div>
 
@@ -192,6 +192,12 @@ hero:
   text-decoration: none;
   color: inherit;
   display: block;
+  border-radius: 8px;
+}
+
+.book-item-link:focus {
+  outline: 2px solid var(--vp-c-brand);
+  outline-offset: 4px;
 }
 
 .book-item {
@@ -202,9 +208,17 @@ hero:
   border-radius: 8px;
   transition: all 0.3s ease;
   height: 100%;
+  background: var(--vp-c-bg-soft);
+  will-change: transform;
 }
 
-.book-item-link:hover .book-item {
+.book-item:focus-within {
+  outline: 2px solid var(--vp-c-brand);
+  outline-offset: 2px;
+}
+
+.book-item-link:hover .book-item,
+.book-item-link:focus .book-item {
   border-color: var(--vp-c-brand);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   transform: translateY(-2px);
@@ -215,6 +229,13 @@ hero:
   height: auto;
   border-radius: 4px;
   flex-shrink: 0;
+  object-fit: cover;
+  object-position: center;
+  transition: transform 0.2s ease;
+}
+
+.book-item:hover .book-cover {
+  transform: scale(1.05);
 }
 
 .book-info {
@@ -246,6 +267,12 @@ hero:
   border-radius: 8px;
   text-align: center;
   transition: all 0.3s ease;
+  background: var(--vp-c-bg-soft);
+}
+
+.feature-item:focus-within {
+  border-color: var(--vp-c-brand);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .feature-item:hover {
@@ -262,6 +289,16 @@ hero:
   color: var(--vp-c-brand);
   text-decoration: none;
   font-weight: 500;
+  border-radius: 4px;
+  padding: 0.25rem 0.5rem;
+  margin: -0.25rem -0.5rem;
+  transition: all 0.2s ease;
+}
+
+.feature-link:focus {
+  outline: 2px solid var(--vp-c-brand);
+  outline-offset: 2px;
+  background: var(--vp-c-brand-soft);
 }
 
 .feature-link:hover {
