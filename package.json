@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev .",
+    "docs:build": "vitepress build .",
+    "docs:preview": "vitepress preview ."
+  },
+  "devDependencies": {
+    "@catppuccin/vitepress": "^0.1.2",
+    "vitepress": "^1.6.3"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}
