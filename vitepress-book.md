@@ -15,6 +15,9 @@ next: false
       <strong>のーざんすくりぷと</strong><br>
       本書は当サイト「Northern Script（のーざんすくりぷと）」の著者による、VitePress活用の実践的なガイドです。
     </div>
+    <a href="https://techbookfest.org/product/nc9ThwdiWHsKv921MCc4ta?productVariantID=qvU9Zv2wdjecARbdSyd8ik" target="_blank" rel="noopener noreferrer" class="purchase-button purchase-button-top">
+      📚 技術書典で購入する
+    </a>
     <h2>書籍概要</h2>
     <p>本書は、Markdownを使って静的サイトを効率的に構築するためのVitePress入門書です。既存のMarkdownドキュメントをGitで管理しながら、美しく機能的なドキュメントサイトを「爆速」で開発する実践的な手法を学ぶことができます。</p>
   </div>
@@ -48,6 +51,50 @@ next: false
   margin-bottom: 1.5rem;
   font-size: 0.9rem;
   color: #0c4a6e;
+}
+
+.purchase-button {
+  display: inline-block;
+  background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+  border: none;
+  cursor: pointer;
+  line-height: 1.4;
+}
+
+.purchase-button:hover {
+  background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(34, 197, 94, 0.4);
+  text-decoration: none;
+  color: white;
+}
+
+.purchase-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(34, 197, 94, 0.3);
+}
+
+.purchase-button-top {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  max-width: 280px;
+}
+
+.purchase-button-bottom {
+  padding: 16px 32px;
+  font-size: 18px;
+  margin: 2rem auto;
+  display: block;
+  max-width: 320px;
 }
 
 @media (max-width: 768px) {
@@ -182,7 +229,13 @@ VitePress独自のMarkdown拡張機能について詳しく解説します。
 
 ## 購入・詳細情報
 
-詳細な情報や購入については、[技術書典の製品ページ](https://techbookfest.org/product/nc9ThwdiWHsKv921MCc4ta?productVariantID=qvU9Zv2wdjecARbdSyd8ik)をご確認ください。
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://techbookfest.org/product/nc9ThwdiWHsKv921MCc4ta?productVariantID=qvU9Zv2wdjecARbdSyd8ik" target="_blank" rel="noopener noreferrer" class="purchase-button purchase-button-bottom">
+    📚 技術書典で購入する
+  </a>
+</div>
+
+詳細な情報については、[技術書典の製品ページ](https://techbookfest.org/product/nc9ThwdiWHsKv921MCc4ta?productVariantID=qvU9Zv2wdjecARbdSyd8ik)をご確認ください。
 
 ## 関連リソース
 

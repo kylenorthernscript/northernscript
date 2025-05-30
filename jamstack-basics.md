@@ -15,6 +15,9 @@ next: false
       <strong>のーざんすくりぷと</strong><br>
       本書は当サイト「Northern Script（のーざんすくりぷと）」シリーズの一冊として、Jamstackの基礎からしっかりと学ぶための入門書です。
     </div>
+    <a href="https://techbookfest.org/product/qWfX14M1JL0WKz3RnGD4nK?productVariantID=6CAZ4Wxmb2AURHDZfyxC2b" target="_blank" rel="noopener noreferrer" class="purchase-button purchase-button-top">
+      📚 技術書典で購入する
+    </a>
     <h2>書籍概要</h2>
     <p>「Jamstackを使用すると高度化、複雑化してきたバックエンド開発の悩みから開放されます。アプリケーション開発そのものと直接関係の無いサーバー管理など面倒で責任の重いことしなくて良くなるからです。」</p>
   </div>
@@ -50,9 +53,60 @@ next: false
   color: #0c4a6e;
 }
 
+.book-detail-info h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.purchase-button {
+  display: inline-block;
+  background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+  border: none;
+  cursor: pointer;
+  line-height: 1.4;
+}
+
+.purchase-button:hover {
+  background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(34, 197, 94, 0.4);
+  text-decoration: none;
+  color: white;
+}
+
+.purchase-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(34, 197, 94, 0.3);
+}
+
+.purchase-button-top {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  max-width: 280px;
+}
+
+.purchase-button-bottom {
+  padding: 16px 32px;
+  font-size: 18px;
+  margin: 2rem auto;
+  display: block;
+  max-width: 320px;
+}
+
 @media (max-width: 768px) {
   .book-detail-header {
     flex-direction: column;
+    align-items: center;
+    text-align: center;
     gap: 1rem;
   }
   
@@ -336,7 +390,13 @@ jobs:
 
 ## 購入・詳細情報
 
-詳細な情報や購入については、[技術書典の製品ページ](https://techbookfest.org/product/qWfX14M1JL0WKz3RnGD4nK?productVariantID=6CAZ4Wxmb2AURHDZfyxC2b)をご確認ください。
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://techbookfest.org/product/qWfX14M1JL0WKz3RnGD4nK?productVariantID=6CAZ4Wxmb2AURHDZfyxC2b" target="_blank" rel="noopener noreferrer" class="purchase-button purchase-button-bottom">
+    📚 技術書典で購入する
+  </a>
+</div>
+
+詳細な情報については、[技術書典の製品ページ](https://techbookfest.org/product/qWfX14M1JL0WKz3RnGD4nK?productVariantID=6CAZ4Wxmb2AURHDZfyxC2b)をご確認ください。
 
 ## 関連リソース
 

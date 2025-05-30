@@ -9,8 +9,13 @@ next: false
 # バックエンドエンジニアによる初めてのJamstack（商業出版版）
 
 <div class="book-detail-header">
-  <img src="/jamstack-scoreboard-cover.png" alt="Jamstack Backend Engineer Commercial Book Cover" class="book-detail-cover">
+  <img src="/jamstack-scoreboard-cover.png" alt="バックエンドエンジニアによる初めてのJamstack Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
+    <div class="purchase-button-top">
+      <a href="https://www.amazon.co.jp/dp/429560139X/" target="_blank" class="btn-purchase-amazon" rel="noopener noreferrer">
+        📖 Amazonで購入する
+      </a>
+    </div>
     <div class="tip-box">
       <strong>商業出版</strong><br>
       本書は技術評論社から出版された書籍版です。技術書典で頒布した同人誌版を大幅に加筆修正し、商業出版として再構成されています。
@@ -50,6 +55,55 @@ next: false
   color: #0c4a6e;
 }
 
+.purchase-button-top,
+.purchase-button-bottom {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+.purchase-section-amazon {
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-border);
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.btn-purchase-amazon {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: linear-gradient(135deg, #ff9900 0%, #ffb84d 100%);
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(255, 153, 0, 0.3);
+  border: none;
+  cursor: pointer;
+}
+
+.btn-purchase-amazon:hover {
+  background: linear-gradient(135deg, #e6890a 0%, #ff9900 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(255, 153, 0, 0.4);
+  color: white;
+  text-decoration: none;
+}
+
+.btn-purchase-amazon:focus {
+  outline: 2px solid var(--vp-c-brand);
+  outline-offset: 2px;
+}
+
+.btn-purchase-amazon:active {
+  transform: translateY(0);
+}
+
 @media (max-width: 768px) {
   .book-detail-header {
     flex-direction: column;
@@ -59,6 +113,11 @@ next: false
   .book-detail-cover {
     width: 100px;
     align-self: center;
+  }
+  
+  .btn-purchase-amazon {
+    font-size: 1rem;
+    padding: 0.875rem 1.5rem;
   }
 }</style>
 
@@ -255,18 +314,6 @@ next: false
 - 図表の品質向上
 - 索引の充実
 
-## 購入・詳細情報
-
-### オンライン書店
-- [Amazon](https://www.amazon.co.jp/dp/429560139X/)
-- [楽天ブックス](https://books.rakuten.co.jp/)
-- [ヨドバシ.com](https://www.yodobashi.com/)
-- [honto](https://honto.jp/)
-
-### 実店舗
-- 全国の書店にて取り扱い中
-- 技術書コーナーにて展開
-
 ## 関連リソース
 
 ### 公式ドキュメント
@@ -281,6 +328,17 @@ next: false
 ### サポート
 - [書籍サポートページ](https://gihyo.jp/book/2024/978-4-297-13909-5)
 - [サンプルコードリポジトリ](https://github.com/kaoru-omiya/jamstack-backend-engineer)
+
+## Amazonで購入
+
+<div class="purchase-section-amazon">
+  <div class="purchase-button-bottom">
+    <a href="https://www.amazon.co.jp/dp/429560139X/" target="_blank" class="btn-purchase-amazon" rel="noopener noreferrer">
+      📖 Amazonで購入する
+    </a>
+  </div>
+  <p>本書はオンデマンド出版のため、Amazonでのご購入をお願いいたします。</p>
+</div>
 
 ## まとめ
 

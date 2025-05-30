@@ -11,6 +11,9 @@ next: false
 <div class="book-detail-header">
   <img src="/storyblok-tb15-cover.jpg" alt="Storyblok Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
+    <a href="https://www.amazon.co.jp/dp/4295603058/" target="_blank" rel="noopener noreferrer nofollow" class="purchase-button purchase-button-top">
+      📖 Amazonで購入する
+    </a>
     <h2>書籍概要</h2>
     <p>本書は、ヘッドレスCMS「Storyblok」の基本的な使い方から応用まで詳しく解説した技術書です。特にNuxt 3との連携を重視し、モダンなWebアプリケーション開発におけるStoryblokの活用方法を学ぶことができます。</p>
   </div>
@@ -39,6 +42,50 @@ next: false
 .book-detail-info h2 {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+.purchase-button {
+  display: inline-block;
+  background: linear-gradient(135deg, #ff9900 0%, #ff6600 100%);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(255, 153, 0, 0.3);
+  border: none;
+  cursor: pointer;
+  line-height: 1.4;
+}
+
+.purchase-button:hover {
+  background: linear-gradient(135deg, #ff6600 0%, #e55100 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(255, 153, 0, 0.4);
+  text-decoration: none;
+  color: white;
+}
+
+.purchase-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(255, 153, 0, 0.3);
+}
+
+.purchase-button-top {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  max-width: 280px;
+}
+
+.purchase-button-bottom {
+  padding: 16px 32px;
+  font-size: 18px;
+  margin: 2rem auto;
+  display: block;
+  max-width: 320px;
 }
 
 @media (max-width: 768px) {
@@ -120,9 +167,6 @@ Nuxt 3のレイアウトシステムとStoryblokの使い分けについて解�
 - **TypeScript**: 型安全なJavaScript開発
 - **Tailwind CSS**: ユーティリティファーストのCSSフレームワーク
 
-## 購入・詳細情報
-
-詳細な情報や購入については、[技術書典の製品ページ](https://techbookfest.org/product/n5xw4aRBAj37Czv5wqMZ3Q?productVariantID=w4GZy7FaTbPn4cV2NGk7wJ)をご確認ください。
 
 ## 関連リソース
 

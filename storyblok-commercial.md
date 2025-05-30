@@ -11,6 +11,11 @@ next: false
 <div class="book-detail-header">
   <img src="/storyblok-book-cover.png" alt="Storyblok Commercial Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
+    <div class="purchase-button-top">
+      <a href="https://www.amazon.co.jp/dp/4295603058/" target="_blank" class="btn-purchase-amazon" rel="noopener noreferrer">
+        📖 Amazonで購入する
+      </a>
+    </div>
     <div class="tip-box">
       <strong>商業出版</strong><br>
       本書は技術評論社から出版された「技術の泉シリーズ」の一冊です。ヘッドレスCMS「Storyblok」の実践的な活用方法を体系的に学べる決定版です。
@@ -50,6 +55,55 @@ next: false
   color: #0c4a6e;
 }
 
+.purchase-button-top,
+.purchase-button-bottom {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+.purchase-section-amazon {
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-border);
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.btn-purchase-amazon {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: linear-gradient(135deg, #ff9900 0%, #ffb84d 100%);
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(255, 153, 0, 0.3);
+  border: none;
+  cursor: pointer;
+}
+
+.btn-purchase-amazon:hover {
+  background: linear-gradient(135deg, #e6890a 0%, #ff9900 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(255, 153, 0, 0.4);
+  color: white;
+  text-decoration: none;
+}
+
+.btn-purchase-amazon:focus {
+  outline: 2px solid var(--vp-c-brand);
+  outline-offset: 2px;
+}
+
+.btn-purchase-amazon:active {
+  transform: translateY(0);
+}
+
 @media (max-width: 768px) {
   .book-detail-header {
     flex-direction: column;
@@ -59,6 +113,11 @@ next: false
   .book-detail-cover {
     width: 100px;
     align-self: center;
+  }
+  
+  .btn-purchase-amazon {
+    font-size: 1rem;
+    padding: 0.875rem 1.5rem;
   }
 }</style>
 
@@ -365,18 +424,16 @@ exports.handler = async (event, context) => {
 const optimizedImage = `${originalUrl}/m/800x600/filters:quality(80):format(webp)`;
 ```
 
-## 購入・詳細情報
+## Amazonで購入
 
-### オンライン書店
-- [Amazon](https://www.amazon.co.jp/dp/4295603058/)
-- [楽天ブックス](https://books.rakuten.co.jp/)
-- [ヨドバシ.com](https://www.yodobashi.com/)
-- [honto](https://honto.jp/)
-
-### 電子書籍版
-- [Kindle](https://www.amazon.co.jp/kindle/)
-- [楽天Kobo](https://books.rakuten.co.jp/rk/)
-- [BookLive!](https://booklive.jp/)
+<div class="purchase-section-amazon">
+  <div class="purchase-button-bottom">
+    <a href="https://www.amazon.co.jp/dp/4295603058/" target="_blank" class="btn-purchase-amazon" rel="noopener noreferrer">
+      📖 Amazonで購入する
+    </a>
+  </div>
+  <p>本書はオンデマンド出版のため、Amazonでのご購入をお願いいたします。</p>
+</div>
 
 ## 関連リソース
 

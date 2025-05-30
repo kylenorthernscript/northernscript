@@ -15,6 +15,9 @@ next: false
       <strong>のーざんすくりぷと</strong><br>
       本書は当サイト「Northern Script（のーざんすくりぷと）」シリーズの一冊として、バックエンドエンジニアの視点からJamstackを学ぶ実践書です。
     </div>
+    <a href="https://techbookfest.org/product/2drx0bywMi8sm9LT6Bw64E?productVariantID=8wZkvewNBJBhq0uy1FGABe" target="_blank" rel="noopener noreferrer" class="purchase-button purchase-button-top">
+      📚 技術書典で購入する
+    </a>
     <h2>書籍概要</h2>
     <p>本書は、従来のバックエンド開発に慣れ親しんだエンジニアが、初めてJamstackに挑戦する際の実践的なガイドブックです。単純なチュートリアルではなく、実際に役立つリアルタイムスコアボードアプリケーションを構築しながら、Jamstackの真の価値を体験できます。</p>
   </div>
@@ -50,6 +53,50 @@ next: false
   color: #0c4a6e;
 }
 
+.purchase-button {
+  display: inline-block;
+  background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+  border: none;
+  cursor: pointer;
+  line-height: 1.4;
+}
+
+.purchase-button:hover {
+  background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(34, 197, 94, 0.4);
+  text-decoration: none;
+  color: white;
+}
+
+.purchase-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(34, 197, 94, 0.3);
+}
+
+.purchase-button-top {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  max-width: 280px;
+}
+
+.purchase-button-bottom {
+  padding: 16px 32px;
+  font-size: 18px;
+  margin: 2rem auto;
+  display: block;
+  max-width: 320px;
+}
+
 @media (max-width: 768px) {
   .book-detail-header {
     flex-direction: column;
@@ -59,6 +106,18 @@ next: false
   .book-detail-cover {
     width: 100px;
     align-self: center;
+  }
+  
+  .purchase-button-top {
+    max-width: 100%;
+    font-size: 14px;
+    padding: 10px 20px;
+  }
+  
+  .purchase-button-bottom {
+    max-width: 100%;
+    font-size: 16px;
+    padding: 14px 28px;
   }
 }</style>
 
@@ -223,7 +282,13 @@ const subscription = supabase
 
 ## 購入・詳細情報
 
-詳細な情報や購入については、[技術書典の製品ページ](https://techbookfest.org/product/2drx0bywMi8sm9LT6Bw64E?productVariantID=8wZkvewNBJBhq0uy1FGABe)をご確認ください。
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://techbookfest.org/product/2drx0bywMi8sm9LT6Bw64E?productVariantID=8wZkvewNBJBhq0uy1FGABe" target="_blank" rel="noopener noreferrer" class="purchase-button purchase-button-bottom">
+    📚 技術書典で購入する
+  </a>
+</div>
+
+詳細な情報については、[技術書典の製品ページ](https://techbookfest.org/product/2drx0bywMi8sm9LT6Bw64E?productVariantID=8wZkvewNBJBhq0uy1FGABe)をご確認ください。
 
 ## 関連リソース
 

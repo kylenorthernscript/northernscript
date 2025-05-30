@@ -11,6 +11,9 @@ next: false
 <div class="book-detail-header">
   <img src="/sake-copper-new.jpg" alt="Niigata Sake Copper Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
+    <a href="https://techbookfest.org/product/q6by5GaCUAjWM0BceF6dER?productVariantID=8vLpdHvhQPGFBb3vzb2RdB" target="_blank" rel="noopener noreferrer" class="purchase-button purchase-button-top">
+      📚 技術書典で購入する
+    </a>
     <div class="tip-box">
       <strong>のーざんすくりぷと</strong><br>
       本書は当サイト「Northern Script（のーざんすくりぷと）」シリーズの特別編として、日本酒という伝統文化への挑戦を記録した体験記です。
@@ -50,6 +53,50 @@ next: false
   color: #0c4a6e;
 }
 
+.purchase-button {
+  display: inline-block;
+  background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+  border: none;
+  cursor: pointer;
+  line-height: 1.4;
+}
+
+.purchase-button:hover {
+  background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(34, 197, 94, 0.4);
+  text-decoration: none;
+  color: white;
+}
+
+.purchase-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(34, 197, 94, 0.3);
+}
+
+.purchase-button-top {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  max-width: 280px;
+}
+
+.purchase-button-bottom {
+  padding: 16px 32px;
+  font-size: 18px;
+  margin: 2rem auto;
+  display: block;
+  max-width: 320px;
+}
+
 @media (max-width: 768px) {
   .book-detail-header {
     flex-direction: column;
@@ -59,6 +106,10 @@ next: false
   .book-detail-cover {
     width: 100px;
     align-self: center;
+  }
+  
+  .book-detail-info {
+    text-align: center;
   }
 }</style>
 
@@ -279,7 +330,13 @@ next: false
 
 ## 購入・詳細情報
 
-詳細な情報や購入については、[技術書典の製品ページ](https://techbookfest.org/product/q6by5GaCUAjWM0BceF6dER?productVariantID=8vLpdHvhQPGFBb3vzb2RdB)をご確認ください。
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://techbookfest.org/product/q6by5GaCUAjWM0BceF6dER?productVariantID=8vLpdHvhQPGFBb3vzb2RdB" target="_blank" rel="noopener noreferrer" class="purchase-button purchase-button-bottom">
+    📚 技術書典で購入する
+  </a>
+</div>
+
+詳細な情報については、[技術書典の製品ページ](https://techbookfest.org/product/q6by5GaCUAjWM0BceF6dER?productVariantID=8vLpdHvhQPGFBb3vzb2RdB)をご確認ください。
 
 ## 関連リソース
 

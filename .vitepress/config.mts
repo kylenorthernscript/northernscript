@@ -84,9 +84,9 @@ function getOrganizedSidebar() {
           text: '技術の泉シリーズ',
           collapsed: false,
           items: [
-            { text: 'Storyblok入門（商業版）', link: '/storyblok-commercial' },
-            { text: 'ChatGPT Jamstack入門（商業版）', link: '/chatgpt-jamstack-commercial' },
-            { text: 'バックエンドエンジニアJamstack（商業版）', link: '/jamstack-backend-engineer' }
+            { text: '高機能ヘッドレスCMS『Storyblok』入門', link: '/storyblok-commercial' },
+            { text: 'ChatGPTと語りながら作るJamstack入門', link: '/chatgpt-jamstack-commercial' },
+            { text: 'バックエンドエンジニアによる初めてのJamstack', link: '/jamstack-backend-engineer' }
           ]
         }
       ]

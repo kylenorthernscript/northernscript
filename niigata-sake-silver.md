@@ -17,6 +17,10 @@ next: false
     </div>
     <h2>書籍概要</h2>
     <p>本書は、著者が「新潟清酒達人検定」の銀の達人（2級相当）を取得するまでの体験記です。銅の達人合格後、より高度な知識が求められる銀の達人への挑戦において、<strong>Supabase</strong>や<strong>Nuxt.js</strong>などのモダンなITツールを活用した革新的な学習法を実践しました。</p>
+    
+    <a href="https://techbookfest.org/product/iuny7hW7gL8UKFZTZk1bL1?productVariantID=g0L7PYAeMN9XCN3eA3tJ3f" target="_blank" rel="noopener noreferrer" class="purchase-btn purchase-btn-header">
+      📚 技術書典で購入する
+    </a>
   </div>
 </div>
 
@@ -59,6 +63,60 @@ next: false
   .book-detail-cover {
     width: 100px;
     align-self: center;
+  }
+}
+
+.purchase-btn {
+  display: inline-block;
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  color: white;
+  text-decoration: none;
+  padding: 16px 32px;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+  transition: all 0.3s ease;
+  border: none;
+  cursor: pointer;
+  min-width: 250px;
+}
+
+.purchase-btn:hover {
+  background: linear-gradient(135deg, #059669 0%, #047857 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(16, 185, 129, 0.4);
+  color: white;
+  text-decoration: none;
+}
+
+.purchase-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(16, 185, 129, 0.3);
+}
+
+.purchase-btn-header {
+  margin-top: 1.5rem;
+  align-self: flex-start;
+}
+
+.purchase-btn-bottom {
+  margin: 2rem auto;
+  display: block;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .purchase-btn {
+    padding: 14px 24px;
+    font-size: 1rem;
+    min-width: 200px;
+  }
+  
+  .purchase-btn-header {
+    align-self: center;
+    margin-top: 1rem;
   }
 }</style>
 
@@ -622,6 +680,10 @@ const learningCommunity = {
 - 日本酒の基礎知識（銅の達人レベル）
 
 ## 購入・詳細情報
+
+<a href="https://techbookfest.org/product/iuny7hW7gL8UKFZTZk1bL1?productVariantID=g0L7PYAeMN9XCN3eA3tJ3f" target="_blank" rel="noopener noreferrer" class="purchase-btn purchase-btn-bottom">
+  📚 技術書典で購入する
+</a>
 
 詳細な情報や購入については、[技術書典の製品ページ](https://techbookfest.org/product/iuny7hW7gL8UKFZTZk1bL1?productVariantID=g0L7PYAeMN9XCN3eA3tJ3f)をご確認ください。
 

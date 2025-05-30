@@ -12,11 +12,100 @@ next: false
 本書は当サイト「Northern Script（のーざんすくりぷと）」シリーズの一冊として、AIとの対話を通じた新しい学習スタイルを提案します。
 :::
 
-## 書籍概要
+<div class="book-detail-header">
+  <img src="/chatgpt-jamstack-cover.jpg" alt="ChatGPT Jamstack Book Cover" class="book-detail-cover">
+  <div class="book-detail-info">
+    <a href="https://www.amazon.co.jp/dp/B0CJHP65Y8/" target="_blank" rel="noopener noreferrer nofollow" class="purchase-button purchase-button-amazon">
+      📖 Amazonで購入する
+    </a>
+    <h2>書籍概要</h2>
+    <p>「米プログラマーの『ぼく』がGPT先輩に質問しつつJamstackの基本概念や実用的な技術を学ぶことができます。」</p>
+    <p>本書は、ChatGPTとの実際の対話を再現しながら、Jamstackの基本概念から実践的な技術まで学べる革新的な学習書です。従来の一方的な解説書とは異なり、読者も実際にChatGPTに質問しながら学習を進められます。</p>
+  </div>
+</div>
 
-「米プログラマーの『ぼく』がGPT先輩に質問しつつJamstackの基本概念や実用的な技術を学ぶことができます。」
+<style>
+.book-detail-header {
+  display: flex;
+  gap: 2rem;
+  margin: 2rem 0;
+  align-items: flex-start;
+}
 
-本書は、ChatGPTとの実際の対話を再現しながら、Jamstackの基本概念から実践的な技術まで学べる革新的な学習書です。従来の一方的な解説書とは異なり、読者も実際にChatGPTに質問しながら学習を進められます。
+.book-detail-cover {
+  width: 120px;
+  height: auto;
+  border-radius: 8px;
+  flex-shrink: 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.book-detail-info {
+  flex: 1;
+}
+
+.book-detail-info h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.purchase-button {
+  display: inline-block;
+  background: linear-gradient(135deg, #ff9900 0%, #ffb84d 100%);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(255, 153, 0, 0.3);
+  border: none;
+  cursor: pointer;
+  line-height: 1.4;
+}
+
+.purchase-button:hover {
+  background: linear-gradient(135deg, #e6890a 0%, #ff9900 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(255, 153, 0, 0.4);
+  text-decoration: none;
+  color: white;
+}
+
+.purchase-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(255, 153, 0, 0.3);
+}
+
+.purchase-button-amazon {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  max-width: 280px;
+  background: linear-gradient(135deg, #ff9900 0%, #ffb84d 100%);
+}
+
+
+@media (max-width: 768px) {
+  .book-detail-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .book-detail-cover {
+    width: 100px;
+  }
+  
+  .purchase-button-amazon {
+    max-width: none;
+  }
+}
+</style>
+
+## 書籍詳細
+
 
 ## 特徴
 
@@ -226,9 +315,6 @@ Next.jsとGatsbyのどちらがおすすめですか？」
 - 新しい技術トレンドを効率的にキャッチアップしたい
 - AI活用の開発手法を身につけたい
 
-## 購入・詳細情報
-
-詳細な情報や購入については、[技術書典の製品ページ](https://techbookfest.org/product/gsyn8dF6vYivaYytGLLkpc?productVariantID=gS6KPiyvZ4mc8EFNdfJSy4)をご確認ください。
 
 ## 関連リソース
 

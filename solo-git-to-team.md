@@ -15,6 +15,9 @@ next: false
       <strong>のーざんすくりぷと</strong><br>
       本書は当サイト「Northern Script（のーざんすくりぷと）」シリーズの一冊として、個人開発者がチーム開発に参加する際の実践的な指南書です。
     </div>
+    <a href="https://techbookfest.org/product/3JCmhLrWQwy4kEUQhPJfVA" target="_blank" rel="noopener noreferrer" class="purchase-button purchase-button-top">
+      📚 技術書典で購入する
+    </a>
     <h2>書籍概要</h2>
     <p><strong>「Gitを一人で使うのに慣れているが、チームでの使用に不安を感じている」</strong></p>
     <p>そんな開発者のために書かれた本書は、個人開発からチーム開発への移行をスムーズに行うための実践的なガイドブックです。単にGitの使い方を説明するのではなく、チーム開発における<strong>コミュニケーション</strong>、<strong>ワークフロー</strong>、<strong>ベストプラクティス</strong>を包括的に解説します。</p>
@@ -53,6 +56,48 @@ next: false
   padding: 1rem;
   margin-bottom: 1rem;
   color: var(--vp-c-tip-text);
+}
+
+.purchase-button {
+  display: inline-block;
+  background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
+  color: white;
+  padding: 12px 24px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+  border: none;
+  cursor: pointer;
+  line-height: 1.4;
+}
+
+.purchase-button:hover {
+  background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(34, 197, 94, 0.4);
+  text-decoration: none;
+  color: white;
+}
+
+.purchase-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(34, 197, 94, 0.3);
+}
+
+.purchase-button-top {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  max-width: 280px;
+}
+
+.purchase-button-bottom {
+  padding: 16px 32px;
+  font-size: 18px;
+  margin: 2rem auto;
 }
 
 @media (max-width: 768px) {
@@ -714,7 +759,13 @@ const intermediateToAdvanced = {
 
 ## 購入・詳細情報
 
-詳細な情報や購入については、[技術書典の製品ページ](https://techbookfest.org/product/3JCmhLrWQwy4kEUQhPJfVA)をご確認ください。
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://techbookfest.org/product/3JCmhLrWQwy4kEUQhPJfVA" target="_blank" rel="noopener noreferrer" class="purchase-button purchase-button-bottom">
+    📚 技術書典で購入する
+  </a>
+</div>
+
+詳細な情報については、[技術書典の製品ページ](https://techbookfest.org/product/3JCmhLrWQwy4kEUQhPJfVA)をご確認ください。
 
 ## 関連リソース
 
