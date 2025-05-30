@@ -126,11 +126,11 @@ export default defineConfig({
         }
       },
       chunkSizeWarningLimit: 1000,
-      minify: 'terser',
-      target: 'esnext'
+      minify: 'esbuild',
+      target: 'es2020'
     },
     optimizeDeps: {
-      include: ['@catppuccin/vitepress']
+      exclude: ['vue']
     }
   },
   head: [
