@@ -15,12 +15,13 @@ next: false
       <strong>のーざんすくりぷと</strong><br>
       本書は当サイト「Northern Script（のーざんすくりぷと）」シリーズとして、ITエンジニアならではの学習アプローチで日本酒検定に挑む記録です。
     </div>
+    <div class="purchase-button-top">
+      <a href="https://techbookfest.org/product/iuny7hW7gL8UKFZTZk1bL1?productVariantID=g0L7PYAeMN9XCN3eA3tJ3f" target="_blank" class="btn-purchase" rel="noopener noreferrer">
+        📚 技術書典で購入する
+      </a>
+    </div>
     <h2>書籍概要</h2>
     <p>本書は、著者が「新潟清酒達人検定」の銀の達人（2級相当）を取得するまでの体験記です。銅の達人合格後、より高度な知識が求められる銀の達人への挑戦において、<strong>Supabase</strong>や<strong>Nuxt.js</strong>などのモダンなITツールを活用した革新的な学習法を実践しました。</p>
-    
-    <a href="https://techbookfest.org/product/iuny7hW7gL8UKFZTZk1bL1?productVariantID=g0L7PYAeMN9XCN3eA3tJ3f" target="_blank" rel="noopener noreferrer" class="purchase-btn purchase-btn-header">
-      📚 技術書典で購入する
-    </a>
   </div>
 </div>
 
@@ -66,57 +67,59 @@ next: false
   }
 }
 
-.purchase-btn {
-  display: inline-block;
-  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+.purchase-button-top,
+.purchase-button-bottom {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+.purchase-section {
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-border);
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.btn-purchase {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
   color: white;
-  text-decoration: none;
-  padding: 16px 32px;
-  border-radius: 12px;
+  padding: 1rem 2rem;
+  border-radius: 8px;
   font-weight: 600;
   font-size: 1.1rem;
-  text-align: center;
-  box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+  text-decoration: none;
   transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
   border: none;
   cursor: pointer;
-  min-width: 250px;
 }
 
-.purchase-btn:hover {
-  background: linear-gradient(135deg, #059669 0%, #047857 100%);
+.btn-purchase:hover {
+  background: linear-gradient(135deg, #16a34a 0%, #15803d 100%);
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(16, 185, 129, 0.4);
+  box-shadow: 0 6px 20px rgba(34, 197, 94, 0.4);
   color: white;
   text-decoration: none;
 }
 
-.purchase-btn:active {
+.btn-purchase:focus {
+  outline: 2px solid var(--vp-c-brand);
+  outline-offset: 2px;
+}
+
+.btn-purchase:active {
   transform: translateY(0);
-  box-shadow: 0 2px 8px rgba(16, 185, 129, 0.3);
-}
-
-.purchase-btn-header {
-  margin-top: 1.5rem;
-  align-self: flex-start;
-}
-
-.purchase-btn-bottom {
-  margin: 2rem auto;
-  display: block;
-  text-align: center;
 }
 
 @media (max-width: 768px) {
-  .purchase-btn {
-    padding: 14px 24px;
+  .btn-purchase {
     font-size: 1rem;
-    min-width: 200px;
-  }
-  
-  .purchase-btn-header {
-    align-self: center;
-    margin-top: 1rem;
+    padding: 0.875rem 1.5rem;
   }
 }</style>
 
@@ -681,11 +684,14 @@ const learningCommunity = {
 
 ## 購入・詳細情報
 
-<a href="https://techbookfest.org/product/iuny7hW7gL8UKFZTZk1bL1?productVariantID=g0L7PYAeMN9XCN3eA3tJ3f" target="_blank" rel="noopener noreferrer" class="purchase-btn purchase-btn-bottom">
-  📚 技術書典で購入する
-</a>
-
-詳細な情報や購入については、[技術書典の製品ページ](https://techbookfest.org/product/iuny7hW7gL8UKFZTZk1bL1?productVariantID=g0L7PYAeMN9XCN3eA3tJ3f)をご確認ください。
+<div class="purchase-section">
+  <div class="purchase-button-bottom">
+    <a href="https://techbookfest.org/product/iuny7hW7gL8UKFZTZk1bL1?productVariantID=g0L7PYAeMN9XCN3eA3tJ3f" target="_blank" class="btn-purchase" rel="noopener noreferrer">
+      📚 技術書典で購入する
+    </a>
+  </div>
+  <p>詳細な情報や購入については、上記ボタンより技術書典の製品ページをご確認ください。</p>
+</div>
 
 ## 関連リソース
 
