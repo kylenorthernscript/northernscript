@@ -23,7 +23,11 @@ hero:
 <div class="book-grid">
   <a href="/solo-git-to-team" class="book-item-link" aria-label="ひとりGitからの卒業 ― チーム開発への最初の一歩の詳細を見る">
     <article class="book-item">
+<<<<<<< HEAD
       <img src="/git-team-cover.png" alt="ひとりGitからの卒業 ― チーム開発への最初の一歩の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+=======
+      <img src="/git-team-cover.png" alt="ひとりGitからの卒業 ― チーム開発への最初の一歩の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async">
+>>>>>>> origin/main
       <div class="book-info">
         <h4>ひとりGitからの卒業 ― チーム開発への最初の一歩</h4>
         <span class="book-link" role="button">詳細を見る</span>
@@ -32,7 +36,11 @@ hero:
   </a>
   <a href="/cloudfront-aws-cdn" class="book-item-link" aria-label="CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニックの詳細を見る">
     <article class="book-item">
+<<<<<<< HEAD
       <img src="/cloudfront-aws-cover.png" alt="CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニックの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+=======
+      <img src="/cloudfront-aws-cover.png" alt="CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニックの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async">
+>>>>>>> origin/main
       <div class="book-info">
         <h4>CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニック</h4>
         <span class="book-link" role="button">詳細を見る</span>
@@ -46,7 +54,11 @@ hero:
 <div class="book-grid">
   <a href="/vitepress-book" class="book-item-link" aria-label="Markdownでドキュメントサイト爆速開発 VitePress入門の詳細を見る">
     <article class="book-item">
+<<<<<<< HEAD
       <img src="/vitepress-cover.jpg" alt="Markdownでドキュメントサイト爆速開発 VitePress入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+=======
+      <img src="/vitepress-cover.jpg" alt="Markdownでドキュメントサイト爆速開発 VitePress入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async">
+>>>>>>> origin/main
       <div class="book-info">
         <h4>Markdownでドキュメントサイト爆速開発 VitePress入門</h4>
         <span class="book-link" role="button">詳細を見る</span>
@@ -60,7 +72,11 @@ hero:
 <div class="book-grid">
   <a href="/niigata-sake-silver" class="book-item-link" aria-label="新潟清酒達人検定　銀の達人受験戦記 with Supabaseの詳細を見る">
     <article class="book-item">
+<<<<<<< HEAD
       <img src="/sake-silver-new.jpg" alt="新潟清酒達人検定　銀の達人受験戦記 with Supabaseの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+=======
+      <img src="/sake-silver-new.jpg" alt="新潟清酒達人検定　銀の達人受験戦記 with Supabaseの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async">
+>>>>>>> origin/main
       <div class="book-info">
         <h4>新潟清酒達人検定　銀の達人受験戦記 with Supabase</h4>
         <span class="book-link" role="button">詳細を見る</span>
@@ -69,7 +85,11 @@ hero:
   </a>
   <a href="/niigata-sake-copper" class="book-item-link" aria-label="新潟清酒達人検定　銅の達人受験戦記の詳細を見る">
     <article class="book-item">
+<<<<<<< HEAD
       <img src="/sake-copper-new.jpg" alt="新潟清酒達人検定　銅の達人受験戦記の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+=======
+      <img src="/sake-copper-new.jpg" alt="新潟清酒達人検定　銅の達人受験戦記の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async">
+>>>>>>> origin/main
       <div class="book-info">
         <h4>新潟清酒達人検定　銅の達人受験戦記</h4>
         <span class="book-link" role="button">詳細を見る</span>
@@ -83,7 +103,11 @@ hero:
 <div class="book-grid">
   <a href="/storyblok-book" class="book-item-link" aria-label="高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）の詳細を見る">
     <article class="book-item">
+<<<<<<< HEAD
       <img src="/storyblok-tb15-cover.jpg" alt="高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+=======
+      <img src="/storyblok-tb15-cover.jpg" alt="高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async">
+>>>>>>> origin/main
       <div class="book-info">
         <h4>高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）</h4>
         <span class="book-link" role="button">詳細を見る</span>
@@ -97,7 +121,11 @@ hero:
 <div class="book-grid">
   <a href="/chatgpt-jamstack" class="book-item-link" aria-label="ChatGPTと語りながら作る、Jamstack入門の詳細を見る">
     <article class="book-item">
+<<<<<<< HEAD
       <img src="/chatgpt-jamstack-tb14-cover.jpg" alt="ChatGPTと語りながら作る、Jamstack入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+=======
+      <img src="/chatgpt-jamstack-tb14-cover.jpg" alt="ChatGPTと語りながら作る、Jamstack入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async">
+>>>>>>> origin/main
       <div class="book-info">
         <h4>ChatGPTと語りながら作る、Jamstack入門</h4>
         <span class="book-link" role="button">詳細を見る</span>
@@ -111,7 +139,11 @@ hero:
 <div class="book-grid">
   <a href="/jamstack-realtime-scoreboard" class="book-item-link" aria-label="バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発の詳細を見る">
     <article class="book-item">
+<<<<<<< HEAD
       <img src="/jamstack-backend-tb13-cover.png" alt="バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+=======
+      <img src="/jamstack-backend-tb13-cover.png" alt="バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async">
+>>>>>>> origin/main
       <div class="book-info">
         <h4>バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発</h4>
         <span class="book-link" role="button">詳細を見る</span>
@@ -120,7 +152,11 @@ hero:
   </a>
   <a href="/jamstack-basics" class="book-item-link" aria-label="Jamstack以前に知りたかったことの詳細を見る">
     <article class="book-item">
+<<<<<<< HEAD
       <img src="/jamstack-basics-tb13-cover.png" alt="Jamstack以前に知りたかったことの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+=======
+      <img src="/jamstack-basics-tb13-cover.png" alt="Jamstack以前に知りたかったことの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async">
+>>>>>>> origin/main
       <div class="book-info">
         <h4>Jamstack以前に知りたかったこと</h4>
         <span class="book-link" role="button">詳細を見る</span>
@@ -136,7 +172,11 @@ hero:
 <div class="book-grid">
   <a href="/storyblok-commercial" class="book-item-link" aria-label="高機能ヘッドレスCMS『Storyblok』入門の詳細を見る">
     <article class="book-item">
+<<<<<<< HEAD
       <img src="/storyblok-book-cover.png" alt="高機能ヘッドレスCMS『Storyblok』入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+=======
+      <img src="/storyblok-book-cover.png" alt="高機能ヘッドレスCMS『Storyblok』入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async">
+>>>>>>> origin/main
       <div class="book-info">
         <h4>高機能ヘッドレスCMS『Storyblok』入門</h4>
         <span class="book-link" role="button">詳細を見る</span>
@@ -145,7 +185,11 @@ hero:
   </a>
   <a href="/chatgpt-jamstack-commercial" class="book-item-link" aria-label="ChatGPTと語りながら作るJamstack入門の詳細を見る">
     <article class="book-item">
+<<<<<<< HEAD
       <img src="/chatgpt-jamstack-cover.png" alt="ChatGPTと語りながら作るJamstack入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+=======
+      <img src="/chatgpt-jamstack-cover.png" alt="ChatGPTと語りながら作るJamstack入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async">
+>>>>>>> origin/main
       <div class="book-info">
         <h4>ChatGPTと語りながら作るJamstack入門</h4>
         <span class="book-link" role="button">詳細を見る</span>
@@ -154,7 +198,11 @@ hero:
   </a>
   <a href="/jamstack-backend-engineer" class="book-item-link" aria-label="バックエンドエンジニアによる初めてのJamstackの詳細を見る">
     <article class="book-item">
+<<<<<<< HEAD
       <img src="/jamstack-scoreboard-cover.png" alt="バックエンドエンジニアによる初めてのJamstackの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+=======
+      <img src="/jamstack-scoreboard-cover.png" alt="バックエンドエンジニアによる初めてのJamstackの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async">
+>>>>>>> origin/main
       <div class="book-info">
         <h4>バックエンドエンジニアによる初めてのJamstack</h4>
         <span class="book-link" role="button">詳細を見る</span>
@@ -233,8 +281,11 @@ hero:
   object-position: center;
   transition: transform 0.2s ease;
   background-color: var(--vp-c-bg-soft);
+<<<<<<< HEAD
   contain: layout style;
   will-change: transform;
+=======
+>>>>>>> origin/main
 }
 
 .book-item:hover .book-cover {
@@ -253,6 +304,7 @@ hero:
 }
 
 .book-link {
+<<<<<<< HEAD
   color: var(--vp-c-brand-dark);
   font-weight: 600;
   text-decoration: underline;
@@ -262,6 +314,10 @@ hero:
 
 .book-item:hover .book-link {
   text-decoration-color: var(--vp-c-brand-dark);
+=======
+  color: var(--vp-c-brand-1);
+  font-weight: 500;
+>>>>>>> origin/main
 }
 
 .feature-grid {
@@ -296,9 +352,15 @@ hero:
 }
 
 .feature-link {
+<<<<<<< HEAD
   color: var(--vp-c-brand-dark);
   text-decoration: underline;
   font-weight: 600;
+=======
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  font-weight: 500;
+>>>>>>> origin/main
   border-radius: 4px;
   padding: 0.25rem 0.5rem;
   margin: -0.25rem -0.5rem;

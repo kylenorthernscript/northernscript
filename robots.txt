@@ -3,13 +3,17 @@ Allow: /
 Disallow: /assets/
 Disallow: /*.js$
 Disallow: /*.css$
+<<<<<<< HEAD
 Disallow: /*.json$
 Disallow: /_app/
 Disallow: /.vitepress/
+=======
+>>>>>>> origin/main
 
 # Sitemap
 Sitemap: https://blogs.northernscript.jp/sitemap.xml
 
+<<<<<<< HEAD
 # Search engines
 User-agent: Googlebot
 Allow: /
@@ -29,3 +33,14 @@ Disallow: /
 
 User-agent: MJ12bot
 Disallow: /
+=======
+# Popular search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+>>>>>>> origin/main
