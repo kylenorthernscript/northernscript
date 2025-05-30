@@ -105,8 +105,58 @@ function getOrganizedSidebar() {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Project",
-  description: " ",
+  title: "Northern Script",
+  description: "のーざんすくりぷと",
+  lang: 'ja-JP',
+  lastUpdated: true,
+  sitemap: {
+    hostname: 'https://blogs.northernscript.jp'
+  },
+  cleanUrls: true,
+  head: [
+    ['meta', { charset: 'utf-8' }],
+    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
+    ['meta', { name: 'description', content: 'のーざんすくりぷと - プログラミング、AI、執筆に関する技術書や記事を公開しています' }],
+    ['meta', { name: 'keywords', content: 'プログラミング,技術書,VitePress,Jamstack,AI,執筆' }],
+    ['meta', { name: 'author', content: 'Northern Script' }],
+    ['meta', { property: 'og:title', content: 'Northern Script' }],
+    ['meta', { property: 'og:description', content: 'のーざんすくりぷと - プログラミング、AI、執筆に関する技術書や記事を公開しています' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:url', content: 'https://blogs.northernscript.jp' }],
+    ['meta', { property: 'og:image', content: 'https://blogs.northernscript.jp/ns_hero.png' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:site', content: '@kyart_tokyo' }],
+    ['meta', { name: 'twitter:title', content: 'Northern Script' }],
+    ['meta', { name: 'twitter:description', content: 'のーざんすくりぷと - プログラミング、AI、執筆に関する技術書や記事を公開しています' }],
+    ['meta', { name: 'twitter:image', content: 'https://blogs.northernscript.jp/ns_hero.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/ns_hero.png' }],
+    ['link', { rel: 'canonical', href: 'https://blogs.northernscript.jp' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
+    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
+    ['script', { type: 'application/ld+json' }, JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Website',
+      'name': 'Northern Script',
+      'description': 'のーざんすくりぷと - プログラミング、AI、執筆に関する技術書や記事を公開しています',
+      'url': 'https://blogs.northernscript.jp',
+      'author': {
+        '@type': 'Person',
+        'name': 'Northern Script',
+        'sameAs': [
+          'https://github.com/kylenorthernscript',
+          'https://x.com/kyart_tokyo'
+        ]
+      },
+      'publisher': {
+        '@type': 'Organization',
+        'name': 'Northern Script',
+        'logo': {
+          '@type': 'ImageObject',
+          'url': 'https://blogs.northernscript.jp/ns_hero.png'
+        }
+      }
+    })]
+  ],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -133,12 +183,24 @@ export default defineConfig({
       image: {
         // image lazy loading is disabled by default
         lazyLoading: true
+      },
+      config: (md) => {
+        // 画像の最適化とレスポンシブ対応
+        md.renderer.rules.image = (tokens, idx, options, env) => {
+          const token = tokens[idx]
+          const srcIndex = token.attrIndex('src')
+          const src = token.attrs[srcIndex][1]
+          const alt = token.content
+          
+          return `<img src="${src}" alt="${alt}" loading="lazy" decoding="async" style="max-width: 100%; height: auto;">`
+        }
       }
     },
 
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/kylenorthernscript' },
+      { icon: 'twitter', link: 'https://x.com/kyart_tokyo' }
     ]
   }
 })
