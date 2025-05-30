@@ -5,10 +5,17 @@
 [build.environment]
   NODE_VERSION = "18"
 
-# HTTPS redirect
+# HTTPS redirect for custom domain
 [[redirects]]
-  from = "http://northernscript.netlify.app/*"
-  to = "https://northernscript.netlify.app/:splat"
+  from = "http://blogs.northernscript.jp/*"
+  to = "https://blogs.northernscript.jp/:splat"
+  status = 301
+  force = true
+
+# Netlify domain redirect to custom domain
+[[redirects]]
+  from = "https://northernscript.netlify.app/*"
+  to = "https://blogs.northernscript.jp/:splat"
   status = 301
   force = true
 
