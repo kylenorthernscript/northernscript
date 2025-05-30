@@ -1,9 +1,4 @@
 import { defineConfig } from 'vitepress'
-import fs from 'fs'
-import path from 'path'
-import matter from 'gray-matter'
-
-const _basePath = ""
 
 /**
  * カスタム slugify 関数
@@ -17,111 +12,100 @@ function customSlugify(str) {
       .toLowerCase()
 }
 
-function getSidebarItems(dir, basePath = _basePath) {
-  const items = []
-  let topItem = null
-  const entries = fs.readdirSync(dir, { withFileTypes: true })
-
-  for (const entry of entries) {
-    if (
-        entry.name.startsWith('.') ||
-        entry.name === 'node_modules' ||
-        entry.name === '.node_modules' ||
-        entry.name.toLowerCase() === 'readme.md'
-    ) {
-      continue
-    }
-
-    const fullPath = path.join(dir, entry.name)
-    if (entry.isFile() && entry.name.endsWith('.md')) {
-      const content = fs.readFileSync(fullPath, 'utf-8')
-      const { data: frontMatter, content: mdContent } = matter(content)
-
-      let order = 0
-      if (frontMatter.order !== undefined) {
-        order = Number(frontMatter.order)
-      } else {
-        const numPrefix = entry.name.match(/^(\d+)/)
-        if (numPrefix) order = Number(numPrefix[1])
-      }
-
-      if (entry.name === 'index.md') {
-        const pageTitle = 'TOP'
-        // ───── H2 抽出をコメントアウト（不要） ─────
-        // const regex = /^##\s+(.*)$/gm
-        // let match
-        // const sections = []
-        // while ((match = regex.exec(mdContent)) !== null) {
-        //   const sectionTitle = match[1].trim()
-        //   const anchor = customSlugify(sectionTitle)
-        //   sections.push({
-        //     text: sectionTitle,
-        //     link: `${basePath || ''}/#${anchor}`
-        //   })
-        // }
-        // ────────────────────────────────────────
-
-        topItem = {
-          text: pageTitle,
-          link: `${basePath || ''}/`,
-          // items: sections.length > 0 ? sections : undefined,  // H2 セクションは表示しない
-          order
+/**
+ * 明示的なサイドバー構造定義
+ */
+function getOrganizedSidebar() {
+  return [
+    {
+      text: '🏠 ホーム',
+      link: '/'
+    },
+    {
+      text: '📝 活動紹介',
+      link: '/activities'
+    },
+    {
+      text: '📚 技術書典書籍',
+      collapsed: false,
+      items: [
+        {
+          text: '技術書典18（2025年5月）',
+          collapsed: false,
+          items: [
+            { text: 'ひとりGitからの卒業 ― チーム開発への最初の一歩', link: '/solo-git-to-team' },
+            { text: 'CloudFrontで始めるAWS CDN', link: '/cloudfront-aws-cdn' }
+          ]
+        },
+        {
+          text: '技術書典17（2024年11月）',
+          collapsed: true,
+          items: [
+            { text: 'VitePress入門', link: '/vitepress-book' }
+          ]
+        },
+        {
+          text: '技術書典16（2024年5月）',
+          collapsed: true,
+          items: [
+            { text: '新潟清酒達人検定　銀の達人受験戦記', link: '/niigata-sake-silver' },
+            { text: '新潟清酒達人検定　銅の達人受験戦記', link: '/niigata-sake-copper' }
+          ]
+        },
+        {
+          text: '技術書典15（2023年11月）',
+          collapsed: true,
+          items: [
+            { text: 'Storyblok入門（Nuxt 3対応）', link: '/storyblok-book' }
+          ]
+        },
+        {
+          text: '技術書典14（2023年5月）',
+          collapsed: true,
+          items: [
+            { text: 'ChatGPTと語りながら作る、Jamstack入門', link: '/chatgpt-jamstack' }
+          ]
+        },
+        {
+          text: '技術書典13（2022年11月）',
+          collapsed: true,
+          items: [
+            { text: 'バックエンドエンジニアによる初めてのJamstack', link: '/jamstack-realtime-scoreboard' },
+            { text: 'Jamstack以前に知りたかったこと', link: '/jamstack-basics' }
+          ]
         }
-      } else {
-        // H1 をページタイトルとして取得
-        const h1Regex = /^#\s+(.*)$/m
-        const h1Match = mdContent.match(h1Regex)
-        const pageTitle = h1Match ? h1Match[1].trim() : entry.name.replace('.md', '')
-
-        // ───── H2 抽出をコメントアウト（不要） ─────
-        // const regex = /^##\s+(.*)$/gm
-        // let match
-        // const sections = []
-        // while ((match = regex.exec(mdContent)) !== null) {
-        //   const sectionTitle = match[1].trim()
-        //   const anchor = customSlugify(sectionTitle)
-        //   sections.push({
-        //     text: sectionTitle,
-        //     link: `${basePath || ''}/${entry.name.replace('.md', '')}#${anchor}`
-        //   })
-        // }
-        // ────────────────────────────────────────
-
-        items.push({
-          text: pageTitle,
-          link: `${basePath || ''}/${entry.name.replace('.md', '')}`,
-          // items: sections.length > 0 ? sections : undefined,  // H2 セクションは表示しない
-          order
-        })
-      }
-    } else if (entry.isDirectory()) {
-      const childItems = getSidebarItems(fullPath, `${basePath || ''}/${entry.name}`)
-      if (childItems.length > 0) {
-        let order = 0
-        const numPrefix = entry.name.match(/^(\d+)/)
-        if (numPrefix) order = Number(numPrefix[1])
-        items.push({
-          text: entry.name,
-          items: childItems,
-          order
-        })
-      }
+      ]
+    },
+    {
+      text: '📖 商業書籍',
+      collapsed: false,
+      items: [
+        {
+          text: '技術の泉シリーズ',
+          collapsed: false,
+          items: [
+            { text: 'Storyblok入門（商業版）', link: '/storyblok-commercial' },
+            { text: 'ChatGPT Jamstack入門（商業版）', link: '/chatgpt-jamstack-commercial' },
+            { text: 'バックエンドエンジニアJamstack（商業版）', link: '/jamstack-backend-engineer' }
+          ]
+        }
+      ]
+    },
+    {
+      text: '🛠️ ツール・ガイド',
+      collapsed: true,
+      items: [
+        { text: 'PRH VS Codeインストール', link: '/prh-install' },
+        { text: 'PRH 技術書典ルール', link: '/prh-install2' },
+        { text: 'コードスニペット・その他記事', link: '/code-snippets' }
+      ]
     }
-  }
-
-  items.sort((a, b) => {
-    const orderA = a.order || 0
-    const orderB = b.order || 0
-    if (orderA === orderB) return a.text.localeCompare(b.text)
-    return orderA - orderB
-  })
-
-  return topItem ? [topItem, ...items] : items
+  ]
 }
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Projet",
+  title: "Project",
   description: " ",
 
   themeConfig: {
@@ -132,7 +116,7 @@ export default defineConfig({
     docFooter: {
       prev: "前のページ", next: "次のページ"
     },
-    sidebar: getSidebarItems(path.resolve(__dirname, '../' + _basePath)),
+    sidebar: getOrganizedSidebar(),
 
     nav: [
       { text: 'Home', link: '/' },
