@@ -114,18 +114,23 @@ export default defineConfig({
   },
   cleanUrls: true,
   vite: {
-    optimizeDeps: {
-      include: ['vue']
-    },
     build: {
       rollupOptions: {
         output: {
-          manualChunks: {
-            vendor: ['vue']
+          manualChunks(id) {
+            // Create separate chunks for large libraries
+            if (id.includes('node_modules')) {
+              return 'vendor'
+            }
           }
         }
       },
-      chunkSizeWarningLimit: 1000
+      chunkSizeWarningLimit: 1000,
+      minify: 'terser',
+      target: 'esnext'
+    },
+    optimizeDeps: {
+      include: ['@catppuccin/vitepress']
     }
   },
   head: [
