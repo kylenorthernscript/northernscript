@@ -9,7 +9,7 @@ next: false
 # 新潟清酒達人検定　銅の達人受験戦記
 
 <div class="book-detail-header">
-  <img src="/sake-copper-cover.jpg" alt="Niigata Sake Copper Book Cover" class="book-detail-cover">
+  <img src="/sake-copper-new.jpg" alt="Niigata Sake Copper Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="tip-box">
       <strong>のーざんすくりぷと</strong><br>

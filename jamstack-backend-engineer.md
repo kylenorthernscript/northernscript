@@ -9,7 +9,7 @@ next: false
 # バックエンドエンジニアによる初めてのJamstack（商業出版版）
 
 <div class="book-detail-header">
-  <img src="/jamstack-scoreboard-cover.jpg" alt="Jamstack Backend Engineer Commercial Book Cover" class="book-detail-cover">
+  <img src="/jamstack-scoreboard-cover.png" alt="Jamstack Backend Engineer Commercial Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="tip-box">
       <strong>商業出版</strong><br>
