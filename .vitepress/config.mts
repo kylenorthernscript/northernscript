@@ -138,6 +138,17 @@ export default defineConfig({
     ['link', { rel: 'canonical', href: 'https://blogs.northernscript.jp' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
+    // Google Analytics 4
+    ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-JZ65XK33TF' }],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-JZ65XK33TF', {
+        anonymize_ip: true,
+        cookie_flags: 'max-age=7200;secure;samesite=strict'
+      });
+    `],
     ['script', { type: 'application/ld+json' }, JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'Website',
@@ -196,7 +207,7 @@ export default defineConfig({
           const srcIndex = token.attrIndex('src')
           const src = token.attrs[srcIndex][1]
           const alt = token.content
-          
+
           return `<img src="${src}" alt="${alt}" loading="lazy" decoding="async" fetchpriority="low" style="max-width: 100%; height: auto; contain: layout style;">`
         }
       }
