@@ -2,7 +2,8 @@
   "scripts": {
     "docs:dev": "vitepress dev .",
     "docs:build": "vitepress build .",
-    "docs:preview": "vitepress preview ."
+    "docs:preview": "vitepress preview .",
+    "optimize:images": "node optimize-images.js"
   },
   "devDependencies": {
     "@catppuccin/vitepress": "^0.1.2",
