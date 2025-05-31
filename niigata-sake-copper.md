@@ -9,7 +9,7 @@ next: false
 # 新潟清酒達人検定　銅の達人受験戦記
 
 <div class="book-detail-header">
-  <img src="/sake-copper-new.jpg" alt="Niigata Sake Copper Book Cover" class="book-detail-cover">
+  <img src="/sake-copper-new.webp" alt="Niigata Sake Copper Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <a href="https://techbookfest.org/product/q6by5GaCUAjWM0BceF6dER?productVariantID=8vLpdHvhQPGFBb3vzb2RdB" target="_blank" rel="noopener noreferrer" class="purchase-button purchase-button-top">
       📚 技術書典で購入する

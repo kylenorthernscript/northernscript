@@ -9,7 +9,7 @@ next: false
 # ひとりGitからの卒業 ― チーム開発への最初の一歩
 
 <div class="book-detail-header">
-  <img src="/git-team-cover.png" alt="Git Team Book Cover" class="book-detail-cover">
+  <img src="/git-team-cover.webp" alt="Git Team Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="tip-box">
       <strong>のーざんすくりぷと</strong><br>

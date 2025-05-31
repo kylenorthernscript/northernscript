@@ -9,7 +9,7 @@ next: false
 # バックエンドエンジニアによる初めてのJamstack（商業出版版）
 
 <div class="book-detail-header">
-  <img src="/jamstack-scoreboard-cover.png" alt="バックエンドエンジニアによる初めてのJamstack Book Cover" class="book-detail-cover">
+  <img src="/jamstack-scoreboard-cover.webp" alt="バックエンドエンジニアによる初めてのJamstack Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="purchase-button-top">
       <a href="https://www.amazon.co.jp/dp/429560139X/" target="_blank" class="btn-purchase-amazon" rel="noopener noreferrer">

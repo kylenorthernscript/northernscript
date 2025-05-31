@@ -9,7 +9,7 @@ next: false
 # ChatGPTと語りながら作るJamstack入門（商業出版版）
 
 <div class="book-detail-header">
-  <img src="/chatgpt-jamstack-cover.png" alt="ChatGPT Jamstack Commercial Book Cover" class="book-detail-cover">
+  <img src="/chatgpt-jamstack-cover.webp" alt="ChatGPT Jamstack Commercial Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="purchase-button-top">
       <a href="https://www.amazon.co.jp/dp/B0CJHP65Y8/" target="_blank" class="btn-purchase-amazon" rel="noopener noreferrer">

@@ -9,7 +9,7 @@ next: false
 # Markdownでドキュメントサイト爆速開発 VitePress入門
 
 <div class="book-detail-header">
-  <img src="/vitepress-cover.jpg" alt="VitePress Book Cover" class="book-detail-cover">
+  <img src="/vitepress-cover.webp" alt="VitePress Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="tip-box">
       <strong>のーざんすくりぷと</strong><br>

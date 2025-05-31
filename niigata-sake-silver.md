@@ -9,7 +9,7 @@ next: false
 # 新潟清酒達人検定　銀の達人受験戦記 with Supabase
 
 <div class="book-detail-header">
-  <img src="/sake-silver-new.jpg" alt="Niigata Sake Silver Book Cover" class="book-detail-cover">
+  <img src="/sake-silver-new.webp" alt="Niigata Sake Silver Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="tip-box">
       <strong>のーざんすくりぷと</strong><br>

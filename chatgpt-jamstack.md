@@ -13,7 +13,7 @@ next: false
 :::
 
 <div class="book-detail-header">
-  <img src="/chatgpt-jamstack-tb14-cover.jpg" alt="ChatGPTと語りながら作る、Jamstack入門 Book Cover" class="book-detail-cover">
+  <img src="/chatgpt-jamstack-tb14-cover.webp" alt="ChatGPTと語りながら作る、Jamstack入門 Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="purchase-button-top">
       <a href="https://techbookfest.org/product/gsyn8dF6vYivaYytGLLkpc?productVariantID=gS6KPiyvZ4mc8EFNdfJSy4" target="_blank" class="btn-purchase" rel="noopener noreferrer">

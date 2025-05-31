@@ -9,7 +9,7 @@ next: false
 # Jamstack以前に知りたかったこと
 
 <div class="book-detail-header">
-  <img src="/jamstack-basics-tb13-cover.png" alt="Jamstack以前に知りたかったこと Book Cover" class="book-detail-cover">
+  <img src="/jamstack-basics-tb13-cover.webp" alt="Jamstack以前に知りたかったこと Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="tip-box">
       <strong>のーざんすくりぷと</strong><br>

@@ -30,14 +30,14 @@ next: false
 
 <div class="recent-books">
   <div class="book-card">
-    <img src="/git-team-cover.png" alt="ひとりGitからの卒業" class="book-thumbnail">
+    <img src="/git-team-cover.webp" alt="ひとりGitからの卒業" class="book-thumbnail">
     <div class="book-details">
       <h4>ひとりGitからの卒業 ― チーム開発への最初の一歩</h4>
       <p>個人開発者がチーム開発に参加する際の実践的なガイド</p>
     </div>
   </div>
   <div class="book-card">
-    <img src="/cloudfront-aws-cover.png" alt="CloudFrontで始めるAWS CDN" class="book-thumbnail">
+    <img src="/cloudfront-aws-cover.webp" alt="CloudFrontで始めるAWS CDN" class="book-thumbnail">
     <div class="book-details">
       <h4>CloudFrontで始めるAWS CDN</h4>
       <p>静的サイト高速化テクニックの実践的な解説書</p>

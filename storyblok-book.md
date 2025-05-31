@@ -9,7 +9,7 @@ next: false
 # 高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）
 
 <div class="book-detail-header">
-  <img src="/storyblok-tb15-cover.jpg" alt="Storyblok Book Cover" class="book-detail-cover">
+  <img src="/storyblok-tb15-cover.webp" alt="Storyblok Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <a href="https://www.amazon.co.jp/dp/4295603058/" target="_blank" rel="noopener noreferrer nofollow" class="purchase-button purchase-button-top">
       📖 Amazonで購入する

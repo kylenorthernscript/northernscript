@@ -9,7 +9,7 @@ next: false
 # 高機能ヘッドレスCMS「Storyblok」入門（商業出版版）
 
 <div class="book-detail-header">
-  <img src="/storyblok-book-cover.png" alt="Storyblok Commercial Book Cover" class="book-detail-cover">
+  <img src="/storyblok-book-cover.webp" alt="Storyblok Commercial Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="purchase-button-top">
       <a href="https://www.amazon.co.jp/dp/4295603058/" target="_blank" class="btn-purchase-amazon" rel="noopener noreferrer">

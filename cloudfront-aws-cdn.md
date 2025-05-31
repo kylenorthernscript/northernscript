@@ -9,7 +9,7 @@ next: false
 # CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニック
 
 <div class="book-detail-header">
-  <img src="/cloudfront-aws-cover.png" alt="CloudFront AWS CDN Book Cover" class="book-detail-cover">
+  <img src="/cloudfront-aws-cover.webp" alt="CloudFront AWS CDN Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="tip-box">
       <strong>のーざんすくりぷと</strong><br>

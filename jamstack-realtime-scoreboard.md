@@ -9,7 +9,7 @@ next: false
 # バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発
 
 <div class="book-detail-header">
-  <img src="/jamstack-backend-tb13-cover.png" alt="バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発 Book Cover" class="book-detail-cover">
+  <img src="/jamstack-backend-tb13-cover.webp" alt="バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発 Book Cover" class="book-detail-cover">
   <div class="book-detail-info">
     <div class="tip-box">
       <strong>のーざんすくりぷと</strong><br>
