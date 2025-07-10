@@ -1,9 +1,11 @@
 ---
 editLink: true
 prev:
-  link: prh-install
-  text: PRHのインストール
-next: false
+  text: 'PRH VS Codeインストール'
+  link: '/tools/prh-install'
+next:
+  text: 'コードスニペット・その他記事'
+  link: '/guides/code-snippets'
 ---
 # PRH：技術書典ルールのインストール
 

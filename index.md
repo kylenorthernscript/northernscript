@@ -21,7 +21,7 @@ hero:
 ### 技術書典18（2025年5月）
 
 <div class="book-grid">
-  <a href="/solo-git-to-team" class="book-item-link" aria-label="ひとりGitからの卒業 ― チーム開発への最初の一歩の詳細を見る">
+  <a href="/books/technical/solo-git-to-team" class="book-item-link" aria-label="ひとりGitからの卒業 ― チーム開発への最初の一歩の詳細を見る">
     <article class="book-item">
       <img src="/git-team-cover.webp" alt="ひとりGitからの卒業 ― チーム開発への最初の一歩の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -30,7 +30,7 @@ hero:
       </div>
     </article>
   </a>
-  <a href="/cloudfront-aws-cdn" class="book-item-link" aria-label="CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニックの詳細を見る">
+  <a href="/guides/cloudfront-aws-cdn" class="book-item-link" aria-label="CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニックの詳細を見る">
     <article class="book-item">
       <img src="/cloudfront-aws-cover.webp" alt="CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニックの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -44,7 +44,7 @@ hero:
 ### 技術書典17（2024年11月）
 
 <div class="book-grid">
-  <a href="/vitepress-book" class="book-item-link" aria-label="Markdownでドキュメントサイト爆速開発 VitePress入門の詳細を見る">
+  <a href="/books/technical/vitepress-book" class="book-item-link" aria-label="Markdownでドキュメントサイト爆速開発 VitePress入門の詳細を見る">
     <article class="book-item">
       <img src="/vitepress-cover.webp" alt="Markdownでドキュメントサイト爆速開発 VitePress入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -58,7 +58,7 @@ hero:
 ### 技術書典16（2024年5月）
 
 <div class="book-grid">
-  <a href="/niigata-sake-silver" class="book-item-link" aria-label="新潟清酒達人検定　銀の達人受験戦記 with Supabaseの詳細を見る">
+  <a href="/books/other/niigata-sake-silver" class="book-item-link" aria-label="新潟清酒達人検定　銀の達人受験戦記 with Supabaseの詳細を見る">
     <article class="book-item">
       <img src="/sake-silver-new.webp" alt="新潟清酒達人検定　銀の達人受験戦記 with Supabaseの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -67,7 +67,7 @@ hero:
       </div>
     </article>
   </a>
-  <a href="/niigata-sake-copper" class="book-item-link" aria-label="新潟清酒達人検定　銅の達人受験戦記の詳細を見る">
+  <a href="/books/other/niigata-sake-copper" class="book-item-link" aria-label="新潟清酒達人検定　銅の達人受験戦記の詳細を見る">
     <article class="book-item">
       <img src="/sake-copper-new.webp" alt="新潟清酒達人検定　銅の達人受験戦記の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -81,7 +81,7 @@ hero:
 ### 技術書典15（2023年11月）
 
 <div class="book-grid">
-  <a href="/storyblok-book" class="book-item-link" aria-label="高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）の詳細を見る">
+  <a href="/books/technical/storyblok-book" class="book-item-link" aria-label="高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）の詳細を見る">
     <article class="book-item">
       <img src="/storyblok-tb15-cover.webp" alt="高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -95,7 +95,7 @@ hero:
 ### 技術書典14（2023年5月）
 
 <div class="book-grid">
-  <a href="/chatgpt-jamstack" class="book-item-link" aria-label="ChatGPTと語りながら作る、Jamstack入門の詳細を見る">
+  <a href="/books/technical/chatgpt-jamstack" class="book-item-link" aria-label="ChatGPTと語りながら作る、Jamstack入門の詳細を見る">
     <article class="book-item">
       <img src="/chatgpt-jamstack-tb14-cover.webp" alt="ChatGPTと語りながら作る、Jamstack入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -109,7 +109,7 @@ hero:
 ### 技術書典13（2022年11月）
 
 <div class="book-grid">
-  <a href="/jamstack-realtime-scoreboard" class="book-item-link" aria-label="バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発の詳細を見る">
+  <a href="/books/technical/jamstack-realtime-scoreboard" class="book-item-link" aria-label="バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発の詳細を見る">
     <article class="book-item">
       <img src="/jamstack-backend-tb13-cover.webp" alt="バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -118,7 +118,7 @@ hero:
       </div>
     </article>
   </a>
-  <a href="/jamstack-basics" class="book-item-link" aria-label="Jamstack以前に知りたかったことの詳細を見る">
+  <a href="/books/technical/jamstack-basics" class="book-item-link" aria-label="Jamstack以前に知りたかったことの詳細を見る">
     <article class="book-item">
       <img src="/jamstack-basics-tb13-cover.webp" alt="Jamstack以前に知りたかったことの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -134,7 +134,7 @@ hero:
 ### 技術の泉シリーズ
 
 <div class="book-grid">
-  <a href="/storyblok-commercial" class="book-item-link" aria-label="高機能ヘッドレスCMS『Storyblok』入門の詳細を見る">
+  <a href="/books/technical/storyblok-commercial" class="book-item-link" aria-label="高機能ヘッドレスCMS『Storyblok』入門の詳細を見る">
     <article class="book-item">
       <img src="/storyblok-book-cover.webp" alt="高機能ヘッドレスCMS『Storyblok』入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -143,7 +143,7 @@ hero:
       </div>
     </article>
   </a>
-  <a href="/chatgpt-jamstack-commercial" class="book-item-link" aria-label="ChatGPTと語りながら作るJamstack入門の詳細を見る">
+  <a href="/books/technical/chatgpt-jamstack-commercial" class="book-item-link" aria-label="ChatGPTと語りながら作るJamstack入門の詳細を見る">
     <article class="book-item">
       <img src="/chatgpt-jamstack-cover.webp" alt="ChatGPTと語りながら作るJamstack入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -152,7 +152,7 @@ hero:
       </div>
     </article>
   </a>
-  <a href="/jamstack-backend-engineer" class="book-item-link" aria-label="バックエンドエンジニアによる初めてのJamstackの詳細を見る">
+  <a href="/books/technical/jamstack-backend-engineer" class="book-item-link" aria-label="バックエンドエンジニアによる初めてのJamstackの詳細を見る">
     <article class="book-item">
       <img src="/jamstack-scoreboard-cover.webp" alt="バックエンドエンジニアによる初めてのJamstackの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -168,15 +168,15 @@ hero:
 <div class="feature-grid">
   <div class="feature-item">
     <h4>PRH：技術書典ルールのインストール</h4>
-    <a href="/prh-install2" class="feature-link">詳細を見る</a>
+    <a href="/tools/prh-install2" class="feature-link">詳細を見る</a>
   </div>
   <div class="feature-item">
     <h4>PRHのVS Codeへのインストール</h4>
-    <a href="/prh-install" class="feature-link">詳細を見る</a>
+    <a href="/tools/prh-install" class="feature-link">詳細を見る</a>
   </div>
   <div class="feature-item">
     <h4>コードスニペット・その他記事</h4>
-    <a href="/code-snippets" class="feature-link">記事一覧</a>
+    <a href="/guides/code-snippets" class="feature-link">記事一覧</a>
   </div>
 </div>
 

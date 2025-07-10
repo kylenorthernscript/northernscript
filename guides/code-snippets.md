@@ -2,8 +2,12 @@
 title: コードスニペット集
 description: プログラミングでよく使うコードスニペットの集約
 editLink: true
-prev: false
-next: false
+prev:
+  text: 'PRH 技術書典ルール'
+  link: '/tools/prh-install2'
+next:
+  text: 'ホーム'
+  link: '/'
 ---
 
 # コードスニペット集

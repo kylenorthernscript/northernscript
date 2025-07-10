@@ -2,8 +2,12 @@
 title: Markdownでドキュメントサイト爆速開発 VitePress入門
 description: Markdownを活用したVitePressによる静的サイト構築の実践的なガイドブック
 editLink: true
-prev: false
-next: false
+prev:
+  text: 'CloudFrontで始めるAWS CDN'
+  link: '/guides/cloudfront-aws-cdn'
+next:
+  text: '新潟清酒達人検定　銀の達人受験戦記'
+  link: '/books/other/niigata-sake-silver'
 ---
 
 # Markdownでドキュメントサイト爆速開発 VitePress入門

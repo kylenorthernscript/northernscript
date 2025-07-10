@@ -2,8 +2,12 @@
 title: 新潟清酒達人検定　銀の達人受験戦記 with Supabase
 description: ITツールを活用した効率的な学習法で銀の達人合格を目指す実践記録
 editLink: true
-prev: false
-next: false
+prev:
+  text: 'VitePress入門'
+  link: '/books/technical/vitepress-book'
+next:
+  text: '新潟清酒達人検定　銅の達人受験戦記'
+  link: '/books/other/niigata-sake-copper'
 ---
 
 # 新潟清酒達人検定　銀の達人受験戦記 with Supabase

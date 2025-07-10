@@ -2,8 +2,12 @@
 title: ChatGPTと語りながら作る、Jamstack入門
 description: ChatGPTとの対話を通じてJamstackを学ぶ革新的な学習アプローチ
 editLink: true
-prev: false
-next: false
+prev:
+  text: 'Storyblok入門（Nuxt 3対応）'
+  link: '/books/technical/storyblok-book'
+next:
+  text: 'バックエンドエンジニアによる初めてのJamstack'
+  link: '/books/technical/jamstack-realtime-scoreboard'
 ---
 
 # ChatGPTと語りながら作る、Jamstack入門

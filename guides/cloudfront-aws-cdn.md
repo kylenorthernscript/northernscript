@@ -2,8 +2,12 @@
 title: CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニック
 description: Amazon CloudFrontとS3を活用した静的サイトの高速化とセキュリティ強化の実践ガイド
 editLink: true
-prev: false
-next: false
+prev:
+  text: 'ひとりGitからの卒業 ― チーム開発への最初の一歩'
+  link: '/books/technical/solo-git-to-team'
+next:
+  text: 'VitePress入門'
+  link: '/books/technical/vitepress-book'
 ---
 
 # CloudFrontで始めるAWS CDN - 今さら聞けない静的サイト高速化テクニック

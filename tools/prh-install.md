@@ -1,10 +1,12 @@
 ---
 title: PRHのVS Codeへのインストール
 editLink: true
-prev: false
-next: 
-  link: prh-install2
-  text: 技術書典ルールのインストール
+prev:
+  text: 'バックエンドエンジニアによる初めてのJamstack（商業出版版）'
+  link: '/books/technical/jamstack-backend-engineer'
+next:
+  text: 'PRH 技術書典ルール'
+  link: '/tools/prh-install2'
 ---
 # PRHのVS Codeへのインストール
 

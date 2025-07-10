@@ -2,8 +2,12 @@
 title: ひとりGitからの卒業 ― チーム開発への最初の一歩
 description: 個人開発からチーム開発へのスムーズな移行を支援する実践的ガイド
 editLink: true
-prev: false
-next: false
+prev:
+  text: '活動紹介'
+  link: '/activities'
+next:
+  text: 'CloudFrontで始めるAWS CDN'
+  link: '/guides/cloudfront-aws-cdn'
 ---
 
 # ひとりGitからの卒業 ― チーム開発への最初の一歩

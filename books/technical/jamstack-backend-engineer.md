@@ -2,8 +2,12 @@
 title: バックエンドエンジニアによる初めてのJamstack（商業出版版）
 description: Jamstackアーキテクチャを基礎から学ぶ、バックエンドエンジニア向けの実践的ガイドブック
 editLink: true
-prev: false
-next: false
+prev:
+  text: 'ChatGPTと語りながら作るJamstack入門（商業出版版）'
+  link: '/books/technical/chatgpt-jamstack-commercial'
+next:
+  text: 'PRH VS Codeインストール'
+  link: '/tools/prh-install'
 ---
 
 # バックエンドエンジニアによる初めてのJamstack（商業出版版）

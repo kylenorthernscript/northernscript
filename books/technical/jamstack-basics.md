@@ -2,8 +2,12 @@
 title: Jamstack以前に知りたかったこと
 description: Jamstackを始める前に押さえておきたい基礎知識と概念
 editLink: true
-prev: false
-next: false
+prev:
+  text: 'バックエンドエンジニアによる初めてのJamstack'
+  link: '/books/technical/jamstack-realtime-scoreboard'
+next:
+  text: 'Storyblok入門（商業出版版）'
+  link: '/books/technical/storyblok-commercial'
 ---
 
 # Jamstack以前に知りたかったこと

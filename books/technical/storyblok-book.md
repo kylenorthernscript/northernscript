@@ -2,8 +2,12 @@
 title: 高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）
 description: ヘッドレスCMS「Storyblok」の基本的な使い方と応用を解説する技術書の紹介
 editLink: true
-prev: false
-next: false
+prev:
+  text: '新潟清酒達人検定　銅の達人受験戦記'
+  link: '/books/other/niigata-sake-copper'
+next:
+  text: 'ChatGPTと語りながら作る、Jamstack入門'
+  link: '/books/technical/chatgpt-jamstack'
 ---
 
 # 高機能ヘッドレスCMS「Storyblok」入門（Nuxt 3対応）

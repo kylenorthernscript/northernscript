@@ -2,8 +2,12 @@
 title: 活動紹介
 description: Northern Script（のーざんすくりぷと）の執筆・プログラミング・コンサルティング活動について
 editLink: true
-prev: false
-next: false
+prev:
+  text: 'ホーム'
+  link: '/'
+next:
+  text: 'ひとりGitからの卒業 ― チーム開発への最初の一歩'
+  link: '/books/technical/solo-git-to-team'
 ---
 
 # 活動紹介

@@ -33,45 +33,45 @@ function getOrganizedSidebar() {
           text: '技術書典18（2025年5月）',
           collapsed: false,
           items: [
-            { text: 'ひとりGitからの卒業 ― チーム開発への最初の一歩', link: '/solo-git-to-team' },
-            { text: 'CloudFrontで始めるAWS CDN', link: '/cloudfront-aws-cdn' }
+            { text: 'ひとりGitからの卒業 ― チーム開発への最初の一歩', link: '/books/technical/solo-git-to-team' },
+            { text: 'CloudFrontで始めるAWS CDN', link: '/guides/cloudfront-aws-cdn' }
           ]
         },
         {
           text: '技術書典17（2024年11月）',
           collapsed: true,
           items: [
-            { text: 'VitePress入門', link: '/vitepress-book' }
+            { text: 'VitePress入門', link: '/books/technical/vitepress-book' }
           ]
         },
         {
           text: '技術書典16（2024年5月）',
           collapsed: true,
           items: [
-            { text: '新潟清酒達人検定　銀の達人受験戦記', link: '/niigata-sake-silver' },
-            { text: '新潟清酒達人検定　銅の達人受験戦記', link: '/niigata-sake-copper' }
+            { text: '新潟清酒達人検定　銀の達人受験戦記', link: '/books/other/niigata-sake-silver' },
+            { text: '新潟清酒達人検定　銅の達人受験戦記', link: '/books/other/niigata-sake-copper' }
           ]
         },
         {
           text: '技術書典15（2023年11月）',
           collapsed: true,
           items: [
-            { text: 'Storyblok入門（Nuxt 3対応）', link: '/storyblok-book' }
+            { text: 'Storyblok入門（Nuxt 3対応）', link: '/books/technical/storyblok-book' }
           ]
         },
         {
           text: '技術書典14（2023年5月）',
           collapsed: true,
           items: [
-            { text: 'ChatGPTと語りながら作る、Jamstack入門', link: '/chatgpt-jamstack' }
+            { text: 'ChatGPTと語りながら作る、Jamstack入門', link: '/books/technical/chatgpt-jamstack' }
           ]
         },
         {
           text: '技術書典13（2022年11月）',
           collapsed: true,
           items: [
-            { text: 'バックエンドエンジニアによる初めてのJamstack', link: '/jamstack-realtime-scoreboard' },
-            { text: 'Jamstack以前に知りたかったこと', link: '/jamstack-basics' }
+            { text: 'バックエンドエンジニアによる初めてのJamstack', link: '/books/technical/jamstack-realtime-scoreboard' },
+            { text: 'Jamstack以前に知りたかったこと', link: '/books/technical/jamstack-basics' }
           ]
         }
       ]
@@ -84,9 +84,9 @@ function getOrganizedSidebar() {
           text: '技術の泉シリーズ',
           collapsed: false,
           items: [
-            { text: '高機能ヘッドレスCMS『Storyblok』入門', link: '/storyblok-commercial' },
-            { text: 'ChatGPTと語りながら作るJamstack入門', link: '/chatgpt-jamstack-commercial' },
-            { text: 'バックエンドエンジニアによる初めてのJamstack', link: '/jamstack-backend-engineer' }
+            { text: '高機能ヘッドレスCMS『Storyblok』入門', link: '/books/technical/storyblok-commercial' },
+            { text: 'ChatGPTと語りながら作るJamstack入門', link: '/books/technical/chatgpt-jamstack-commercial' },
+            { text: 'バックエンドエンジニアによる初めてのJamstack', link: '/books/technical/jamstack-backend-engineer' }
           ]
         }
       ]
@@ -95,9 +95,9 @@ function getOrganizedSidebar() {
       text: '🛠️ ツール・ガイド',
       collapsed: true,
       items: [
-        { text: 'PRH VS Codeインストール', link: '/prh-install' },
-        { text: 'PRH 技術書典ルール', link: '/prh-install2' },
-        { text: 'コードスニペット・その他記事', link: '/code-snippets' }
+        { text: 'PRH VS Codeインストール', link: '/tools/prh-install' },
+        { text: 'PRH 技術書典ルール', link: '/tools/prh-install2' },
+        { text: 'コードスニペット・その他記事', link: '/guides/code-snippets' }
       ]
     }
   ]
@@ -113,6 +113,33 @@ export default defineConfig({
     hostname: 'https://blogs.northernscript.jp'
   },
   cleanUrls: true,
+  
+  locales: {
+    root: {
+      label: '日本語',
+      lang: 'ja-JP',
+      themeConfig: {
+        nav: [
+          { text: 'ホーム', link: '/' },
+          { text: 'English', link: '/en/' }
+        ]
+      }
+    },
+    en: {
+      label: 'English',
+      lang: 'en-US',
+      title: 'Northern Script',
+      description: 'Technical Author, Travel Guide, and Language Professional',
+      themeConfig: {
+        nav: [
+          { text: 'Home', link: '/en/' },
+          { text: 'Travel Guides', link: '/en/travel/' },
+          { text: 'Work with Me', link: '/en/contact' },
+          { text: '日本語', link: '/' }
+        ]
+      }
+    }
+  },
   vite: {
     build: {
       chunkSizeWarningLimit: 1000
@@ -182,11 +209,11 @@ export default defineConfig({
     docFooter: {
       prev: "前のページ", next: "次のページ"
     },
-    sidebar: getOrganizedSidebar(),
+    sidebar: {
+      '/en/': [],
+      '/': getOrganizedSidebar()
+    },
 
-    nav: [
-      { text: 'Home', link: '/' },
-    ],
 
     markdown: {
       anchor: {

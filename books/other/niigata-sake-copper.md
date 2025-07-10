@@ -2,8 +2,12 @@
 title: 新潟清酒達人検定　銅の達人受験戦記
 description: 新潟清酒達人検定銅の達人合格への道のりとノウハウを綴った体験記
 editLink: true
-prev: false
-next: false
+prev:
+  text: '新潟清酒達人検定　銀の達人受験戦記'
+  link: '/books/other/niigata-sake-silver'
+next:
+  text: 'Storyblok入門（Nuxt 3対応）'
+  link: '/books/technical/storyblok-book'
 ---
 
 # 新潟清酒達人検定　銅の達人受験戦記

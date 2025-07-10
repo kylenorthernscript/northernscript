@@ -2,8 +2,12 @@
 title: バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発
 description: Jamstackを使ったリアルタイムスコアボードアプリケーションの実践的な開発ガイド
 editLink: true
-prev: false
-next: false
+prev:
+  text: 'ChatGPTと語りながら作る、Jamstack入門'
+  link: '/books/technical/chatgpt-jamstack'
+next:
+  text: 'Jamstack以前に知りたかったこと'
+  link: '/books/technical/jamstack-basics'
 ---
 
 # バックエンドエンジニアによる初めてのJamstack　リアルタイム更新スコアボード開発

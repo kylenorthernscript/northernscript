@@ -2,8 +2,12 @@
 title: ChatGPTと語りながら作るJamstack入門（商業出版版）
 description: 対話型AI ChatGPTを活用したJamstack開発の実践的ガイドブック
 editLink: true
-prev: false
-next: false
+prev:
+  text: 'Storyblok入門（商業出版版）'
+  link: '/books/technical/storyblok-commercial'
+next:
+  text: 'バックエンドエンジニアによる初めてのJamstack（商業出版版）'
+  link: '/books/technical/jamstack-backend-engineer'
 ---
 
 # ChatGPTと語りながら作るJamstack入門（商業出版版）

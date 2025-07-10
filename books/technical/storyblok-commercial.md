@@ -2,8 +2,12 @@
 title: 高機能ヘッドレスCMS「Storyblok」入門（商業出版版）
 description: Storyblokの基本から応用まで、実践的な活用方法を詳しく解説した商業出版版ガイドブック
 editLink: true
-prev: false
-next: false
+prev:
+  text: 'Jamstack以前に知りたかったこと'
+  link: '/books/technical/jamstack-basics'
+next:
+  text: 'ChatGPTと語りながら作るJamstack入門（商業出版版）'
+  link: '/books/technical/chatgpt-jamstack-commercial'
 ---
 
 # 高機能ヘッドレスCMS「Storyblok」入門（商業出版版）
