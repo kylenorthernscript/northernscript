@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://blogs.northernscript.jp/sitemap.xml
+
+# Performance optimization
+Crawl-delay: 1
+
+# Allow all content
+Allow: /en/
+Allow: /books/
+Allow: /guides/
+Allow: /tools/
+Allow: /assets/
+Allow: /public/
+
+# Disallow admin paths (if any exist)
+Disallow: /admin/
+Disallow: /.vitepress/
+Disallow: /node_modules/

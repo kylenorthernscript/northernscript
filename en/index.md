@@ -1,6 +1,32 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: Northern Script - Technical Author, Travel Guide, Language Professional
+description: Professional technical publishing, authentic Japan travel guides, and specialized translation services. 11+ published books on Jamstack, AI, and modern web development.
+head:
+  - - meta
+    - property: og:title
+      content: Northern Script - Technical Author, Travel Guide, Language Professional
+  - - meta
+    - property: og:description
+      content: Professional technical publishing, authentic Japan travel guides, and specialized translation services. 11+ published books on Jamstack, AI, and modern web development.
+  - - meta
+    - property: og:url
+      content: https://blogs.northernscript.jp/en/
+  - - meta
+    - property: og:locale
+      content: en_US
+  - - link
+    - rel: canonical
+      href: https://blogs.northernscript.jp/en/
+  - - link
+    - rel: alternate
+      hreflang: ja
+      href: https://blogs.northernscript.jp/
+  - - link
+    - rel: alternate
+      hreflang: en
+      href: https://blogs.northernscript.jp/en/
 
 hero:
   name: "Northern Script"
