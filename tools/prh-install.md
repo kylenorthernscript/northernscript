@@ -16,13 +16,13 @@ next:
 ここからダウンロード  
 https://marketplace.visualstudio.com/items?itemName=vvakame.vscode-prh-extention
 
-![拡張機能のインストール](./assets/prh-install/01.png)
+![拡張機能のインストール](/assets/prh-install/01.png)
 
 ## 設定ファイルでprh.ymlの指定
 
 1. `Ctrl + Shift + P` で設定画面を出す
 2. **Preferences: Open Workspace Settings (JSON)** と入力、または選択する。
-   ![Workspaceの設定](./assets/prh-install/02.png)
+   ![Workspaceの設定](/assets/prh-install/02.png)
 
 3. settings.jsonを編集する画面になるので、以下のように入力する。
 
@@ -136,7 +136,7 @@ english　words の間に全角スペースがあります。
 
 するとこのように検証に引っかかる場所が**波線でハイライト**されます。
 
-![拡張機能のインストール](./assets/prh-install/03.png)
+![拡張機能のインストール](/assets/prh-install/03.png)
 
 :::
 

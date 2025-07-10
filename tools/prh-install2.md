@@ -18,7 +18,7 @@ https://github.com/prh/rules/blob/master/media/techbooster.yml
 
 
 
-![Techbooster.yml](./assets/prh-install/04.png)
+![Techbooster.yml](/assets/prh-install/04.png)
 
 
 
@@ -84,7 +84,7 @@ git clone https://github.com/prh/rules.git
 
 これをプロジェクト内の任意の場所（例: プロジェクトルートに rules という名前のフォルダとして）に配置します。
 
-![Techboosterから「わかる」が検出](./assets/prh-install/05.png)
+![Techboosterから「わかる」が検出](/assets/prh-install/05.png)
 
 うまく設定ができていると、上記のように「わかる」という言葉が引っかかります。これはTechboosterのファイルで以下のように指定されているからです。
 ```yaml
