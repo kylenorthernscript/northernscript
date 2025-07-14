@@ -178,10 +178,7 @@ export default defineConfig({
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-JZ65XK33TF', {
-        anonymize_ip: true,
-        cookie_flags: 'max-age=7200;secure;samesite=strict'
-      });
+      gtag('config', 'G-JZ65XK33TF');
     `],
     ['script', { type: 'application/ld+json' }, JSON.stringify({
       '@context': 'https://schema.org',
