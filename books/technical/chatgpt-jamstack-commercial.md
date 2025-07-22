@@ -19,6 +19,9 @@ next:
       <a href="https://www.amazon.co.jp/dp/B0CJHP65Y8/" target="_blank" class="btn-purchase-amazon" rel="noopener noreferrer">
         📖 Amazonで購入する
       </a>
+      <a href="https://nextpublishing.jp/book/17073.html" target="_blank" class="btn-purchase-nextpub" rel="noopener noreferrer">
+        📚 インプレスで詳細を見る
+      </a>
     </div>
     <div class="tip-box">
       <strong>AI駆動開発</strong><br>
@@ -108,6 +111,41 @@ next:
   transform: translateY(0);
 }
 
+.btn-purchase-nextpub {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: linear-gradient(135deg, #10b981 0%, #34d399 100%);
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+  border: none;
+  cursor: pointer;
+  margin-left: 1rem;
+}
+
+.btn-purchase-nextpub:hover {
+  background: linear-gradient(135deg, #059669 0%, #10b981 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(16, 185, 129, 0.4);
+  color: white;
+  text-decoration: none;
+}
+
+.btn-purchase-nextpub:focus {
+  outline: 2px solid var(--vp-c-brand);
+  outline-offset: 2px;
+}
+
+.btn-purchase-nextpub:active {
+  transform: translateY(0);
+}
+
 @media (max-width: 768px) {
   .book-detail-header {
     flex-direction: column;
@@ -119,9 +157,18 @@ next:
     align-self: center;
   }
   
-  .btn-purchase-amazon {
+  .btn-purchase-amazon,
+  .btn-purchase-nextpub {
     font-size: 1rem;
     padding: 0.875rem 1.5rem;
+    margin: 0.5rem 0;
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .btn-purchase-nextpub {
+    margin-left: 0;
   }
 }</style>
 
@@ -384,8 +431,11 @@ Webアプリケーションの要件:
     <a href="https://www.amazon.co.jp/dp/B0CJHP65Y8/" target="_blank" class="btn-purchase-amazon" rel="noopener noreferrer">
       📖 Amazonで購入する
     </a>
+    <a href="https://nextpublishing.jp/book/17073.html" target="_blank" class="btn-purchase-nextpub" rel="noopener noreferrer">
+      📚 インプレスで詳細を見る
+    </a>
   </div>
-  <p>本書はオンデマンド出版のため、Amazonでのご購入をお願いいたします。</p>
+  <p>本書はオンデマンド出版です。Amazonまたはインプレスネクストパブリッシングでご購入いただけます。</p>
 </div>
 
 ## 関連リソース

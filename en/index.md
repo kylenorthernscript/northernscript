@@ -84,7 +84,7 @@ Northern Script is the professional brand of **Kaoru "Kyle" Omiya**, a multiface
 **🏆 Over 11 technical books published since 2022**
 
 <div class="book-grid">
-  <a href="https://nextpublishing.jp/book/17083.html" class="book-item-link" target="_blank" rel="noopener noreferrer" aria-label="View Storyblok Guide (Japanese)">
+  <a href="https://nextpublishing.jp/book/17868.html" class="book-item-link" target="_blank" rel="noopener noreferrer" aria-label="View Storyblok Guide (Japanese)">
     <article class="book-item">
       <img src="/storyblok-book-cover.webp" alt="Advanced Headless CMS Storyblok Guide (Nuxt 3 Compatible)" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -94,7 +94,7 @@ Northern Script is the professional brand of **Kaoru "Kyle" Omiya**, a multiface
       </div>
     </article>
   </a>
-  <a href="https://nextpublishing.jp/book/16320.html" class="book-item-link" target="_blank" rel="noopener noreferrer" aria-label="View ChatGPT Jamstack Guide (Japanese)">
+  <a href="https://nextpublishing.jp/book/17073.html" class="book-item-link" target="_blank" rel="noopener noreferrer" aria-label="View ChatGPT Jamstack Guide (Japanese)">
     <article class="book-item">
       <img src="/chatgpt-jamstack-cover.webp" alt="Jamstack Development with ChatGPT" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
@@ -104,7 +104,7 @@ Northern Script is the professional brand of **Kaoru "Kyle" Omiya**, a multiface
       </div>
     </article>
   </a>
-  <a href="https://nextpublishing.jp/book/15527.html" class="book-item-link" target="_blank" rel="noopener noreferrer" aria-label="View Jamstack for Backend Engineers (Japanese)">
+  <a href="https://nextpublishing.jp/book/15949.html" class="book-item-link" target="_blank" rel="noopener noreferrer" aria-label="View Jamstack for Backend Engineers (Japanese)">
     <article class="book-item">
       <img src="/jamstack-scoreboard-cover.webp" alt="First Jamstack for Backend Engineers" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
       <div class="book-info">
