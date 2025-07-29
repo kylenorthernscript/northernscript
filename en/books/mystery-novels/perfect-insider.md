@@ -45,7 +45,7 @@ const book = getBook('all-becomes-f')
 
 **For English readers wondering if this Japanese logic puzzle mystery is worth your time: absolutely yes.** When I first read The Perfect Insider (『すべてがFになる』) in Japanese, I was blown away by Hiroshi Mori's approach to the locked room mystery. Here was a computer science professor turned mystery novelist who brought genuine scientific logic to detective fiction in ways I'd never seen before.
 
-What makes this book special isn't just that it's a clever locked room mystery—though it certainly is that. It's how Mori uses computer programming logic, mathematical thinking, and scientific methodology as integral parts of both the crime and its solution. As someone with a technical background myself, I found the precision of Mori's thinking absolutely captivating.
+What makes this book special isn't just that it's a clever locked room mystery—though it certainly is that. It's how Mori uses computer programming logic, mathematical thinking, and scientific methodology as integral parts of both the crime and its solution. As someone with a technical background myself, I found the precision of Mori's thinking absolutely captivating. This debut novel remains Mori's greatest achievement—a perfect storm of innovation, logic, and storytelling that he has never quite matched in his subsequent works.
 
 ## What Makes This Special
 
@@ -53,7 +53,9 @@ What makes this book special isn't just that it's a clever locked room mystery�
 
 The Perfect Insider launched what became known as the "logic puzzle mystery" boom in Japan during the 1990s. Mori didn't just create puzzles—he created mysteries where the solution required genuine logical thinking, not just intuitive leaps or lucky guesses. The famous locked room setup on a remote research island becomes a genuine intellectual challenge that rewards careful readers.
 
-The locked room in question involves the murder of a brilliant but disturbed computer scientist, Dr. Magata, who appears to have been killed in a room that was impossible to enter or exit. But Mori's genius lies in how he makes the impossibility feel genuinely impossible while providing all the clues needed for a logical solution.
+The locked room in question involves the murder of a brilliant but disturbed computer scientist, Dr. Magata, who appears to have been killed in a room that was impossible to enter or exit. But here's what sets this apart from every other locked room mystery: Mori creates a perfect closed circle where it is absolutely impossible for any human to have been present—not just difficult, not just improbable, but logically impossible. Yet the murder clearly happened, it's definitely not suicide, and somehow, through pure logical deduction, a solution exists.
+
+This isn't a trick that relies on secret passages, mechanical devices, or psychological misdirection. It's a solution so audacious, so perfectly logical yet utterly shocking, that even today—nearly 30 years after publication—this novel consistently appears in Japan's top 10 mystery lists. The trick remains one of the most discussed and admired solutions in the history of detective fiction.
 
 ### Cultural Context That Matters
 
@@ -104,11 +106,17 @@ The Perfect Insider proved that Japanese mystery could compete internationally o
 
 The novel also influenced how mystery writers approached technology. Mori showed that computers and programming could be sources of puzzles, not just plot devices or red herrings.
 
+## A Note About Mori's Other Works
+
+I should be honest here: while The Perfect Insider remains Mori's most celebrated work and his debut masterpiece, I've struggled to find the same magic in his subsequent novels. Despite trying several of his later books in the S&M series and beyond, none have captured the perfect balance of logic, emotion, and innovation that made this first novel so special. 
+
+This isn't uncommon—many mystery writers create their best puzzle with their debut and spend the rest of their careers trying to recapture that lightning in a bottle. For Mori, The Perfect Insider represents his peak achievement, the book where all his strengths as a writer and thinker came together perfectly. If you're looking to explore more of his work, temper your expectations—this really is his masterpiece.
+
 ## Final Verdict
 
 『すべてがFになる』is essential reading for anyone who loves intellectual puzzles disguised as entertainment. It's a locked room mystery that actually respects the reader's intelligence, providing genuine logical challenges rather than depending on lucky guesses or hidden information.
 
-The solution is both shocking and inevitable—the mark of a truly great mystery. Once you see how it works, you'll want to immediately reread the book to catch all the clues you missed. Years later, I still think about the elegance of Mori's logical construction.
+The solution is both shocking and inevitable—the mark of a truly great mystery. This is the book that presents the ultimate impossible crime: a perfect closed circle where no human could have been present, yet a murder occurred. The trick is so revolutionary that it still regularly appears in Japanese "Best Mystery of All Time" lists, decades after publication. Once you see how it works, you'll want to immediately reread the book to catch all the clues you missed. Years later, I still think about the elegance and audacity of Mori's logical construction.
 
 For mystery lovers seeking genuine intellectual challenge, this is required reading. For those interested in how different cultures approach puzzle-solving, it's a fascinating window into Japanese analytical thinking. For anyone who appreciates elegant logical construction, it's a masterclass.
 
