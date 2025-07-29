@@ -127,6 +127,18 @@ Each book has its own page where I share:
 </div>
 
 <div class="book-recommendation">
+  <img src="/images/books/all-becomes-f.jpg" 
+       alt="The Perfect Insider by Hiroshi Mori" 
+       loading="lazy">
+  <div class="book-summary">
+    <h4><a href="/en/books/mystery-novels/perfect-insider">The Perfect Insider</a></h4>
+    <p class="author">Hiroshi Mori (森博嗣)</p>
+    <p class="teaser">The logic puzzle mystery that revolutionized Japanese detective fiction—pure deductive reasoning disguised as entertainment.</p>
+    <a href="/en/books/mystery-novels/perfect-insider" class="read-more">Read my full review →</a>
+  </div>
+</div>
+
+<div class="book-recommendation">
   <img src="/images/books/decagon-house-murders.jpg" 
        alt="The Decagon House Murders by Yukito Ayatsuji" 
        loading="lazy">

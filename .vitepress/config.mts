@@ -233,6 +233,7 @@ export default defineConfig({
                 { text: 'Puppet Master', link: '/en/books/mystery-novels/puppet-master' },
                 { text: 'The Tokyo Zodiac Murders', link: '/en/books/mystery-novels/tokyo-zodiac-murders' },
                 { text: 'The Decagon House Murders', link: '/en/books/mystery-novels/decagon-house-murders' },
+                { text: 'The Perfect Insider', link: '/en/books/mystery-novels/perfect-insider' },
                 { text: 'Six Four', link: '/en/books/mystery-novels/six-four' }
               ]
             }

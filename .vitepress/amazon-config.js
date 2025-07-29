@@ -104,6 +104,20 @@ export const AMAZON_CONFIG = {
       publishDate: '2016-11-08',
       rating: 4.2,
       reviews: 1234
+    },
+    'all-becomes-f': {
+      title: 'The Perfect Insider',
+      author: 'Hiroshi Mori',
+      translator: 'Alexander O. Smith',
+      asin: '1421598086',
+      imageUrl: '/images/books/all-becomes-f.jpg',
+      priceFrom: '$14.99',
+      formats: ['Kindle', 'Paperback'],
+      pages: 320,
+      publisher: 'Vertical Comics',
+      publishDate: '2014-10-21',
+      rating: 4.0,
+      reviews: 892
     }
   }
 };
