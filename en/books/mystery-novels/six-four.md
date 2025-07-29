@@ -71,6 +71,12 @@ What devastated me most about this novel was its portrayal of the human cost of 
 
 The secondary characters are equally complex: journalists who've grown too comfortable with their access, police officials who've forgotten why they became cops, victims' families whose grief has been weaponized for political purposes. Everyone is trapped in a system that rewards the wrong behaviors and punishes honesty.
 
+### A Fascinating Subplot: Mikami's Daughter
+
+One of the most poignant subplots involves Mikami's daughter, who is being bullied at school because she takes after her father's rough, unpolished appearance. Yokoyama doesn't shy away from the cruel reality that looking like her "gorilla-faced" detective father makes her a target for teenage cruelty. This detail adds another layer to Mikami's burden—his very genetics have become a source of his child's suffering.
+
+Here's a amusing tidbit about the film adaptation: when they made the movie, they cast a beautiful young idol actress in the daughter's role. This created quite a buzz among Japanese audiences who knew the book—imagine trying to believe that this stunning actress was being bullied for being ugly! It became a running joke among fans, highlighting the sometimes absurd gap between literary realism and cinema's need for attractive faces. Some viewers jokingly suggested the bullies must have had vision problems. It's one of those delightful instances where adaptation choices create unintended comedy.
+
 <div class="mid-page-cta">
   <div class="cta-content">
     <h4>Ready for Unflinching Social Realism?</h4>
