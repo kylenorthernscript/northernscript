@@ -59,6 +59,17 @@ The genius lies in how Ayatsuji uses our familiarity with Christie's methods as 
 
 **The Mystery Club Tradition**: Japanese universities have active mystery fiction clubs where students analyze Golden Age puzzles with academic rigor. Ayatsuji uses this cultural context to create characters who are themselves mystery experts—they know the rules, they recognize the patterns, and they're actively trying to solve the case as it unfolds. This adds a layer of meta-commentary that Western readers might miss but that Japanese readers found revolutionary.
 
+**The Nicknames**: The seven club members who travel to the island go by nicknames based on famous mystery writers:
+- **Ellery** (after Ellery Queen)
+- **Poe** (Edgar Allan Poe)
+- **Agatha** (Agatha Christie)
+- **Van** (S.S. Van Dine)
+- **Carr** (John Dickson Carr)
+- **Leroux** (Gaston Leroux)
+- **Orczy** (Baroness Orczy)
+
+These aren't just cute references—they're integral to how the novel manipulates reader expectations. We make assumptions about characters based on their namesakes, and Ayatsuji uses these psychological assumptions against us.
+
 **The Island Setting**: Remote islands hold particular significance in Japanese culture, representing both isolation and transformation. The island in this novel isn't just a convenient way to trap the characters—it's a space outside normal social rules where hidden truths can emerge. The characters literally leave their everyday selves behind when they cross the water.
 
 **Postwar Academic Culture**: The university setting reflects 1980s Japan's relationship with Western culture and knowledge. These students have absorbed Golden Age mysteries as thoroughly as any Oxford don, but they're bringing distinctly Japanese sensibilities to their analysis. Ayatsuji explores what happens when Eastern minds fully internalize Western puzzle forms.
@@ -68,6 +79,10 @@ The genius lies in how Ayatsuji uses our familiarity with Christie's methods as 
 Without spoiling the specifics, I can say that Ayatsuji's solution operates on multiple levels of deception. He doesn't just hide the identity of the killer—he fundamentally manipulates our understanding of what kind of story we're reading. The revelation doesn't just answer "who did it?" but transforms our comprehension of the entire narrative structure.
 
 What makes this particularly brilliant is how fair it is. Every clue is present and observable. The misdirection comes not from hidden information but from Ayatsuji's masterful control of how we process the information we're given. He turns our own reading habits into accomplices in the deception.
+
+### The Perfect Use of Psychological Assumptions
+
+The novel's greatest achievement is its flawless exploitation of readers' psychological blind spots. Ayatsuji understands that mystery readers come with built-in assumptions about how stories work, and he weaponizes these assumptions. In Japan, this novel is still considered a textbook example of honkaku mystery construction precisely because it demonstrates how to use fair play rules while completely blindsiding the reader. Every mystery writing course in Japan references this book as the gold standard for psychological misdirection.
 
 <div class="mid-page-cta">
   <div class="cta-content">
@@ -109,6 +124,12 @@ If you enjoyed the complex plotting of John Dickson Carr or the logical puzzles 
 You can trace a direct line from this novel to the current golden age of Japanese mystery in translation. Without Ayatsuji's proof that updated honkaku mysteries could find both domestic and international audiences, we might never have discovered authors like Keigo Higashino, Tokuya Higashigawa, or Rintaro Norizuki.
 
 The novel also influenced how Japanese authors approached other genres. The careful attention to narrative structure, the willingness to play with reader expectations, the integration of meta-fictional elements—all of these became hallmarks of sophisticated Japanese popular fiction across genres.
+
+### The "Impossible" Adaptation That Worked
+
+For decades, Japanese mystery fans considered this novel absolutely unfilmable. The trick depends so heavily on the written word, on how readers process text, that adaptation seemed impossible. Yet in 2024, Hulu Japan shocked everyone by creating a perfect adaptation that maintained the core mystery while translating it to a visual medium.
+
+The series became a massive talking point precisely because it achieved the impossible—it preserved the fundamental misdirection while working within the constraints of television. Mystery fans who knew the book were amazed to find themselves fooled again, even knowing the solution. It proved that with enough creativity and respect for the source material, even the most "literary" mysteries can find new life in different media.
 
 ## Final Verdict
 
