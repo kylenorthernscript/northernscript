@@ -110,7 +110,7 @@ Just be prepared: once you know the solution, you'll never look at locked-room m
 <div class="final-purchase-cta">
   <div class="amazon-book-card">
     <div class="book-image">
-      <img src="https://m.media-amazon.com/images/I/91VVIpV3ZXL._SL1500_.jpg" 
+      <img src="/images/books/tokyo-zodiac-murders.jpg" 
            alt="The Tokyo Zodiac Murders by Soji Shimada" 
            loading="lazy">
     </div>

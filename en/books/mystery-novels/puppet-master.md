@@ -102,7 +102,7 @@ Not for readers seeking escapist entertainment, but absolutely essential for any
 <div class="final-purchase-cta">
   <div class="amazon-book-card">
     <div class="book-image">
-      <img src="https://m.media-amazon.com/images/I/91lh6DVQZFL._SL1500_.jpg" 
+      <img src="/images/books/puppet-master.jpg" 
            alt="Puppet Master by Miyuki Miyabe" 
            loading="lazy">
     </div>

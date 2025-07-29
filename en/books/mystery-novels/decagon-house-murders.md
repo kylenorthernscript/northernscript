@@ -111,7 +111,7 @@ Just be prepared: once you know how Ayatsuji pulled off this particular trick, y
 <div class="final-purchase-cta">
   <div class="amazon-book-card">
     <div class="book-image">
-      <img src="https://m.media-amazon.com/images/I/71D50x3iVuL._SL1500_.jpg" 
+      <img src="/images/books/decagon-house-murders.jpg" 
            alt="The Decagon House Murders by Yukito Ayatsuji" 
            loading="lazy">
     </div>

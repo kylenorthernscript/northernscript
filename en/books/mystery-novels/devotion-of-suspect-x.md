@@ -18,7 +18,7 @@ head:
 
 <div class="amazon-book-card">
   <div class="book-image">
-    <img src="https://m.media-amazon.com/images/I/716kh-UcI-L._SL1500_.jpg" 
+    <img src="/images/books/devotion-of-suspect-x.jpg" 
          alt="The Devotion of Suspect X by Keigo Higashino" 
          loading="lazy" 
          onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
@@ -127,7 +127,7 @@ Just be prepared: the ending will destroy you in the best possible way.
 <div class="final-purchase-cta">
   <div class="amazon-book-card">
     <div class="book-image">
-      <img src="https://m.media-amazon.com/images/I/716kh-UcI-L._SL1500_.jpg" 
+      <img src="/images/books/devotion-of-suspect-x.jpg" 
            alt="The Devotion of Suspect X by Keigo Higashino" 
            loading="lazy">
     </div>

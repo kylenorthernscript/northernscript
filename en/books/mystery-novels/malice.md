@@ -114,7 +114,7 @@ Essential reading, but be warned: it might change how you think about the people
 <div class="final-purchase-cta">
   <div class="amazon-book-card">
     <div class="book-image">
-      <img src="https://m.media-amazon.com/images/I/81Q1n36TGxL._SL1500_.jpg" 
+      <img src="/images/books/malice.jpg" 
            alt="Malice by Keigo Higashino" 
            loading="lazy">
     </div>

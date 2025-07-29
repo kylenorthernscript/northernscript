@@ -51,15 +51,9 @@ Each book has its own page where I share:
 ### Modern Masters
 
 <div class="book-recommendation">
-  <img src="https://m.media-amazon.com/images/I/716kh-UcI-L._SL1500_.jpg" 
+  <img src="/images/books/devotion-of-suspect-x.jpg" 
        alt="The Devotion of Suspect X by Keigo Higashino" 
-       loading="lazy"
-       crossorigin="anonymous"
-       referrerpolicy="no-referrer-when-downgrade">
-  <div class="book-cover-placeholder" style="display: none;">
-    <div class="placeholder-title">The Devotion of<br>Suspect X</div>
-    <div class="placeholder-author">Keigo Higashino</div>
-  </div>
+       loading="lazy">
   <div class="book-summary">
     <h4><a href="/en/books/mystery-novels/devotion-of-suspect-x">The Devotion of Suspect X</a></h4>
     <p class="author">Keigo Higashino (東野圭吾)</p>
@@ -69,16 +63,9 @@ Each book has its own page where I share:
 </div>
 
 <div class="book-recommendation">
-  <img src="https://m.media-amazon.com/images/I/81Xan3GQbDL._SL1500_.jpg" 
+  <img src="/images/books/journey-under-midnight-sun.jpg" 
        alt="Journey Under the Midnight Sun by Keigo Higashino" 
-       loading="lazy"
-       crossorigin="anonymous"
-       referrerpolicy="no-referrer-when-downgrade"
->
-  <div class="book-cover-placeholder" style="display: none;">
-    <div class="placeholder-title">Journey Under the<br>Midnight Sun</div>
-    <div class="placeholder-author">Keigo Higashino</div>
-  </div>
+       loading="lazy">
   <div class="book-summary">
     <h4><a href="/en/books/mystery-novels/journey-under-midnight-sun">Journey Under the Midnight Sun</a></h4>
     <p class="author">Keigo Higashino (東野圭吾)</p>
@@ -88,16 +75,9 @@ Each book has its own page where I share:
 </div>
 
 <div class="book-recommendation">
-  <img src="https://m.media-amazon.com/images/I/81Q1n36TGxL._SL1500_.jpg" 
+  <img src="/images/books/malice.jpg" 
        alt="Malice by Keigo Higashino" 
-       loading="lazy"
-       crossorigin="anonymous"
-       referrerpolicy="no-referrer-when-downgrade"
->
-  <div class="book-cover-placeholder" style="display: none;">
-    <div class="placeholder-title">Malice</div>
-    <div class="placeholder-author">Keigo Higashino</div>
-  </div>
+       loading="lazy">
   <div class="book-summary">
     <h4><a href="/en/books/mystery-novels/malice">Malice</a></h4>
     <p class="author">Keigo Higashino (東野圭吾)</p>
@@ -109,16 +89,9 @@ Each book has its own page where I share:
 ### Psychological Thrillers
 
 <div class="book-recommendation">
-  <img src="https://m.media-amazon.com/images/I/91lh6DVQZFL._SL1500_.jpg" 
+  <img src="/images/books/puppet-master.jpg" 
        alt="Puppet Master by Miyuki Miyabe" 
-       loading="lazy"
-       crossorigin="anonymous"
-       referrerpolicy="no-referrer-when-downgrade"
->
-  <div class="book-cover-placeholder" style="display: none;">
-    <div class="placeholder-title">Puppet Master</div>
-    <div class="placeholder-author">Miyuki Miyabe</div>
-  </div>
+       loading="lazy">
   <div class="book-summary">
     <h4><a href="/en/books/mystery-novels/puppet-master">Puppet Master</a></h4>
     <p class="author">Miyuki Miyabe (宮部みゆき)</p>
@@ -130,16 +103,9 @@ Each book has its own page where I share:
 ### Classic Honkaku
 
 <div class="book-recommendation">
-  <img src="https://m.media-amazon.com/images/I/91VVIpV3ZXL._SL1500_.jpg" 
+  <img src="/images/books/tokyo-zodiac-murders.jpg" 
        alt="The Tokyo Zodiac Murders by Soji Shimada" 
-       loading="lazy"
-       crossorigin="anonymous"
-       referrerpolicy="no-referrer-when-downgrade"
->
-  <div class="book-cover-placeholder" style="display: none;">
-    <div class="placeholder-title">The Tokyo<br>Zodiac Murders</div>
-    <div class="placeholder-author">Soji Shimada</div>
-  </div>
+       loading="lazy">
   <div class="book-summary">
     <h4><a href="/en/books/mystery-novels/tokyo-zodiac-murders">The Tokyo Zodiac Murders</a></h4>
     <p class="author">Soji Shimada (島田荘司)</p>
@@ -149,16 +115,9 @@ Each book has its own page where I share:
 </div>
 
 <div class="book-recommendation">
-  <img src="https://m.media-amazon.com/images/I/71D50x3iVuL._SL1500_.jpg" 
+  <img src="/images/books/decagon-house-murders.jpg" 
        alt="The Decagon House Murders by Yukito Ayatsuji" 
-       loading="lazy"
-       crossorigin="anonymous"
-       referrerpolicy="no-referrer-when-downgrade"
->
-  <div class="book-cover-placeholder" style="display: none;">
-    <div class="placeholder-title">The Decagon<br>House Murders</div>
-    <div class="placeholder-author">Yukito Ayatsuji</div>
-  </div>
+       loading="lazy">
   <div class="book-summary">
     <h4><a href="/en/books/mystery-novels/decagon-house-murders">The Decagon House Murders</a></h4>
     <p class="author">Yukito Ayatsuji (綾辻行人)</p>
@@ -170,16 +129,9 @@ Each book has its own page where I share:
 ### Police & Social Mysteries
 
 <div class="book-recommendation">
-  <img src="https://m.media-amazon.com/images/I/81Mo61pN39L._SL1500_.jpg" 
+  <img src="/images/books/six-four.jpg" 
        alt="Six Four by Hideo Yokoyama" 
-       loading="lazy"
-       crossorigin="anonymous"
-       referrerpolicy="no-referrer-when-downgrade"
->
-  <div class="book-cover-placeholder" style="display: none;">
-    <div class="placeholder-title">Six Four</div>
-    <div class="placeholder-author">Hideo Yokoyama</div>
-  </div>
+       loading="lazy">
   <div class="book-summary">
     <h4><a href="/en/books/mystery-novels/six-four">Six Four</a></h4>
     <p class="author">Hideo Yokoyama (横山秀夫)</p>
@@ -202,47 +154,6 @@ If you're new to Japanese mysteries, I recommend starting with **The Devotion of
 
 As someone who reads these books in both Japanese and English, I'm consistently impressed by the translation quality. The translators have done remarkable work preserving not just the plots but the atmosphere and cultural nuances that make these stories resonate.
 
-<script>
-// Enhanced image loading with multiple fallback strategies
-document.addEventListener('DOMContentLoaded', function() {
-  const bookImages = document.querySelectorAll('.book-recommendation img');
-  
-  bookImages.forEach(img => {
-    const originalSrc = img.src;
-    const placeholder = img.nextElementSibling;
-    
-    // Set a timeout to check if image loaded
-    const checkImage = () => {
-      setTimeout(() => {
-        if (!img.complete || img.naturalHeight === 0) {
-          console.log('Image failed to load:', img.src);
-          img.style.display = 'none';
-          placeholder.style.display = 'block';
-        }
-      }, 3000);
-    };
-    
-    img.onload = function() {
-      console.log('Image loaded successfully:', this.src);
-    };
-    
-    img.onerror = function() {
-      console.log('Image error for:', this.src);
-      // Try alternative Amazon CDN
-      if (this.src.includes('m.media-amazon.com')) {
-        this.src = this.src.replace('m.media-amazon.com', 'images-na.ssl-images-amazon.com');
-        checkImage();
-      } else {
-        // Show placeholder if all attempts fail
-        this.style.display = 'none';
-        placeholder.style.display = 'block';
-      }
-    };
-    
-    checkImage();
-  });
-});
-</script>
 
 <style>
 .affiliate-disclosure {
@@ -291,33 +202,6 @@ document.addEventListener('DOMContentLoaded', function() {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
-.book-cover-placeholder {
-  width: 120px;
-  height: 180px;
-  background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
-  border-radius: 4px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding: 1rem;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  color: white;
-  flex-shrink: 0;
-}
-
-.placeholder-title {
-  font-size: 0.9rem;
-  font-weight: bold;
-  line-height: 1.2;
-  margin-bottom: 0.5rem;
-}
-
-.placeholder-author {
-  font-size: 0.8rem;
-  opacity: 0.9;
-}
 
 .book-summary {
   flex: 1;

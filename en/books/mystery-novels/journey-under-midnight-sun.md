@@ -103,7 +103,7 @@ Not for the faint of heart, but absolutely essential for anyone serious about Ja
 <div class="final-purchase-cta">
   <div class="amazon-book-card">
     <div class="book-image">
-      <img src="https://m.media-amazon.com/images/I/81Xan3GQbDL._SL1500_.jpg" 
+      <img src="/images/books/journey-under-midnight-sun.jpg" 
            alt="Journey Under the Midnight Sun by Keigo Higashino" 
            loading="lazy">
     </div>

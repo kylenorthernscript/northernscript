@@ -112,7 +112,7 @@ Just be prepared for a reading experience that will challenge your assumptions a
 <div class="final-purchase-cta">
   <div class="amazon-book-card">
     <div class="book-image">
-      <img src="https://m.media-amazon.com/images/I/81Mo61pN39L._SL1500_.jpg" 
+      <img src="/images/books/six-four.jpg" 
            alt="Six Four by Hideo Yokoyama" 
            loading="lazy">
     </div>
