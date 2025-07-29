@@ -51,7 +51,7 @@ Each book has its own page where I share:
 ### Modern Masters
 
 <div class="book-recommendation">
-  <img src="https://m.media-amazon.com/images/I/81FxuHgUMuL._SL1500_.jpg" alt="The Devotion of Suspect X" loading="lazy">
+  <img src="https://m.media-amazon.com/images/I/716kh-UcI-L._SL1500_.jpg" alt="The Devotion of Suspect X" loading="lazy">
   <div class="book-summary">
     <h4><a href="/en/books/mystery-novels/devotion-of-suspect-x">The Devotion of Suspect X</a></h4>
     <p class="author">Keigo Higashino (東野圭吾)</p>
@@ -61,7 +61,7 @@ Each book has its own page where I share:
 </div>
 
 <div class="book-recommendation">
-  <img src="https://m.media-amazon.com/images/I/71qL7nXO5LL._SL1500_.jpg" alt="Journey Under the Midnight Sun" loading="lazy">
+  <img src="https://m.media-amazon.com/images/I/81Xan3GQbDL._SL1500_.jpg" alt="Journey Under the Midnight Sun" loading="lazy">
   <div class="book-summary">
     <h4><a href="/en/books/mystery-novels/journey-under-midnight-sun">Journey Under the Midnight Sun</a></h4>
     <p class="author">Keigo Higashino (東野圭吾)</p>
@@ -71,7 +71,7 @@ Each book has its own page where I share:
 </div>
 
 <div class="book-recommendation">
-  <img src="https://m.media-amazon.com/images/I/71Y5Pa8AL-L._SL1500_.jpg" alt="Malice" loading="lazy">
+  <img src="https://m.media-amazon.com/images/I/81Q1n36TGxL._SL1500_.jpg" alt="Malice" loading="lazy">
   <div class="book-summary">
     <h4><a href="/en/books/mystery-novels/malice">Malice</a></h4>
     <p class="author">Keigo Higashino (東野圭吾)</p>
@@ -179,11 +179,12 @@ As someone who reads these books in both Japanese and English, I'm consistently 
 }
 
 .book-recommendation img {
-  width: 100px;
+  width: 120px;
   height: auto;
   object-fit: contain;
   flex-shrink: 0;
   border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
 .book-summary {
@@ -236,6 +237,7 @@ As someone who reads these books in both Japanese and English, I'm consistently 
   }
   
   .book-recommendation img {
+    width: 100px;
     margin: 0 auto;
   }
 }
