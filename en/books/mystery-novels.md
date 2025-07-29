@@ -205,6 +205,10 @@ As someone who reads these books in both Japanese and English, I'm consistently 
 
 .book-summary {
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 120px;
 }
 
 .book-summary h4 {
@@ -235,11 +239,15 @@ As someone who reads these books in both Japanese and English, I'm consistently 
 }
 
 .read-more {
+  display: inline-block;
   color: var(--vp-c-brand-dark);
   text-decoration: none;
   font-weight: 600;
   font-size: 0.95rem;
   transition: all 0.3s ease;
+  margin-top: 0.5rem;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .read-more:hover {
@@ -255,6 +263,15 @@ As someone who reads these books in both Japanese and English, I'm consistently 
   .book-recommendation img {
     width: 100px;
     margin: 0 auto;
+  }
+  
+  .book-summary {
+    min-height: auto;
+    gap: 0.5rem;
+  }
+  
+  .read-more {
+    margin-top: 1rem;
   }
 }
 </style>
