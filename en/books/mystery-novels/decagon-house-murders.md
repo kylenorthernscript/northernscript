@@ -1,11 +1,23 @@
 ---
 layout: doc
-title: The Decagon House Murders - Personal Review
-description: A Japanese reader's perspective on Ayatsuji's revolutionary debut that brought the Golden Age back to Japanese mystery fiction with shocking modern twists.
+title: The Decagon House Murders Review - Is This Japanese Mystery Worth Reading?
+description: Honest review of The Decagon House Murders by Yukito Ayatsuji. Why this revolutionary Japanese mystery novel is worth reading. Best honkaku mystery books reviewed.
 head:
   - - meta
     - name: keywords
-      content: Decagon House Murders, Yukito Ayatsuji, Japanese mystery, honkaku, shin honkaku, Golden Age, book review
+      content: Decagon House Murders review, Yukito Ayatsuji worth reading, Japanese mystery novels review, best honkaku mystery books, shin honkaku mystery review, Golden Age mystery recommendations, Decagon House Murders good book, Japanese detective fiction
+  - - meta
+    - property: og:title
+      content: The Decagon House Murders Review - Is This Revolutionary Japanese Mystery Worth Reading?
+  - - meta
+    - property: og:description
+      content: Detailed review of Yukito Ayatsuji's groundbreaking mystery. Why The Decagon House Murders revolutionized Japanese detective fiction.
+  - - meta
+    - name: twitter:title
+      content: The Decagon House Murders Review - Worth Reading?
+  - - meta
+    - name: twitter:description
+      content: Honest review of Ayatsuji's revolutionary mystery. The book that brought Golden Age puzzles back to Japan.
 ---
 
 <script setup>

@@ -1,11 +1,23 @@
 ---
 layout: doc
-title: Journey Under the Midnight Sun - Personal Review
-description: A Japanese reader's perspective on Higashino's darkest masterpiece—a 19-year descent into moral darkness that defines modern Japanese noir.
+title: Journey Under the Midnight Sun Review - Is Keigo Higashino's Darkest Work Worth Reading?
+description: Honest review of Journey Under the Midnight Sun by Keigo Higashino. Why this dark Japanese crime novel is worth reading. Comprehensive review of Higashino's most ambitious work.
 head:
   - - meta
     - name: keywords
-      content: Journey Under the Midnight Sun, Byakuyako, Keigo Higashino, Japanese noir, book review
+      content: Journey Under the Midnight Sun review, Keigo Higashino worth reading, Japanese crime novels review, best Keigo Higashino books, psychological thriller worth reading, Japanese dark fiction recommendations, Journey Under Midnight Sun good book, Byakuyako English translation
+  - - meta
+    - property: og:title
+      content: Journey Under the Midnight Sun Review - Is Keigo Higashino's Dark Masterpiece Worth Reading?
+  - - meta
+    - property: og:description
+      content: Detailed review of Keigo Higashino's darkest work. Why Journey Under the Midnight Sun is essential reading for crime fiction fans.
+  - - meta
+    - name: twitter:title
+      content: Journey Under the Midnight Sun Review - Worth Reading?
+  - - meta
+    - name: twitter:description
+      content: Honest review of Keigo Higashino's darkest psychological thriller. A 19-year journey through moral darkness.
 ---
 
 <script setup>

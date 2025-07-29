@@ -1,22 +1,34 @@
 ---
 layout: doc
-title: Japanese Mystery Novels in English - A Personal Guide
-description: A Japanese mystery enthusiast's guide to the best Japanese detective fiction available in English. Personal recommendations with detailed insights into why these books matter.
+title: Best Japanese Mystery Novels in English - Reviews & Recommendations 2024
+description: Comprehensive reviews of the best Japanese mystery novels available in English. Worth reading recommendations from Keigo Higashino, Miyuki Miyabe, and more top Japanese authors.
 head:
   - - meta
     - name: keywords
-      content: Japanese mystery novels, English translation, book recommendations, detective fiction, honkaku mystery
+      content: best Japanese mystery novels, Japanese detective fiction reviews, Japanese crime novels recommendations, Keigo Higashino books worth reading, Japanese mystery novels English translation, best translated Japanese mysteries, Japanese thriller books review, honkaku mystery novels
+  - - meta
+    - property: og:title
+      content: Best Japanese Mystery Novels in English - Expert Reviews & Recommendations
+  - - meta
+    - property: og:description
+      content: Discover the best Japanese mystery novels available in English. Expert reviews and recommendations for Keigo Higashino, Miyuki Miyabe, and other masters.
+  - - meta
+    - name: twitter:title
+      content: Best Japanese Mystery Novels - Reviews & Recommendations
+  - - meta
+    - name: twitter:description
+      content: Expert guide to the best Japanese detective fiction in English. Reviews of Keigo Higashino, Miyuki Miyabe, and more.
 ---
 
-# Why I Recommend Japanese Mysteries to English Readers
+# Best Japanese Mystery Novels Worth Reading - Expert Reviews & Recommendations
 
 <div class="affiliate-disclosure">
   <small>As an Amazon Associate I earn from qualifying purchases.</small>
 </div>
 
-## A Japanese Mystery Fan's Perspective
+## Are Japanese Mystery Novels Worth Reading? A Japanese Reader's Honest Assessment
 
-As a Japanese reader who grew up immersed in our country's rich mystery tradition, I've witnessed firsthand how these stories reflect something uniquely Japanese—a meticulous attention to detail, an appreciation for intellectual puzzles, and a deep exploration of human psychology that goes beyond simple whodunits.
+**If you're wondering whether Japanese mystery novels are worth your time as an English reader, the answer is absolutely yes.** As a Japanese reader who grew up immersed in our country's rich mystery tradition, I've witnessed firsthand how these stories reflect something uniquely Japanese—a meticulous attention to detail, an appreciation for intellectual puzzles, and a deep exploration of human psychology that goes beyond simple whodunits. The best Japanese detective fiction offers something you simply can't find in Western mysteries.
 
 ### Why Japanese Mysteries Are Different
 
@@ -44,7 +56,7 @@ Each book has its own page where I share:
 - Why this particular work matters in Japanese mystery canon
 - What makes it accessible (or challenging) for English readers
 
-## My Recommendations
+## Best Japanese Mystery Novels - My Top Recommendations Worth Reading
 
 <div class="recommendation-grid">
 

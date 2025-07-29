@@ -1,11 +1,23 @@
 ---
 layout: doc
-title: Malice - Personal Review
-description: A Japanese reader's perspective on Higashino's masterclass in narrative deception—a mystery where knowing who did it is just the beginning.
+title: Malice by Keigo Higashino Review - Worth Reading This Japanese Mystery?
+description: Honest review of Malice by Keigo Higashino. Why this Japanese psychological thriller is worth reading. Best Keigo Higashino books ranked and reviewed.
 head:
   - - meta
     - name: keywords
-      content: Malice, Keigo Higashino, Japanese mystery, Detective Kaga, book review
+      content: Malice Keigo Higashino review, Malice worth reading, Japanese psychological thriller review, best Keigo Higashino books, Detective Kaga series review, Japanese mystery novels recommendations, Malice book good or bad, psychological mystery books
+  - - meta
+    - property: og:title
+      content: Malice by Keigo Higashino Review - Is This Psychological Thriller Worth Reading?
+  - - meta
+    - property: og:description
+      content: Detailed review of Keigo Higashino's psychological masterpiece Malice. Why this Japanese mystery novel is essential reading for thriller fans.
+  - - meta
+    - name: twitter:title
+      content: Malice by Keigo Higashino Review - Worth Reading?
+  - - meta
+    - name: twitter:description
+      content: Honest review of Keigo Higashino's psychological thriller. A masterclass in unreliable narration and twisted motives.
 ---
 
 <script setup>

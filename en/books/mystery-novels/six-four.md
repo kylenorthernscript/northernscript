@@ -1,11 +1,23 @@
 ---
 layout: doc
-title: Six Four - Personal Review
-description: A Japanese reader's perspective on Yokoyama's devastating portrait of institutional failure, police culture, and personal redemption in modern Japan.
+title: Six Four by Hideo Yokoyama Review - Is This Japanese Police Novel Worth Reading?
+description: Honest review of Six Four by Hideo Yokoyama. Why this Japanese police procedural is worth reading. Best Japanese crime novels and police thrillers reviewed.
 head:
   - - meta
     - name: keywords
-      content: Six Four, Hideo Yokoyama, Japanese police procedural, institutional failure, journalism, book review
+      content: Six Four Hideo Yokoyama review, Six Four worth reading, Japanese police procedural review, best Japanese crime novels, Hideo Yokoyama books review, Japanese police thriller recommendations, Six Four book good or bad, Japanese institutional thriller
+  - - meta
+    - property: og:title
+      content: Six Four by Hideo Yokoyama Review - Is This Japanese Police Thriller Worth Reading?
+  - - meta
+    - property: og:description
+      content: Detailed review of Hideo Yokoyama's acclaimed police procedural Six Four. Why this Japanese crime novel is essential reading for thriller fans.
+  - - meta
+    - name: twitter:title
+      content: Six Four by Hideo Yokoyama Review - Worth Reading?
+  - - meta
+    - name: twitter:description
+      content: Honest review of Yokoyama's devastating police procedural. More than crime fiction - a powerful social critique.
 ---
 
 <script setup>

@@ -1,11 +1,23 @@
 ---
 layout: doc
-title: Puppet Master - Personal Review
-description: A Japanese reader's perspective on Miyabe's epic exploration of media manipulation and copycat crimes that defines modern Japanese society.
+title: Puppet Master by Miyuki Miyabe Review - Is This Japanese Thriller Worth Reading?
+description: Honest review of Puppet Master by Miyuki Miyabe. Why this Japanese psychological thriller about media manipulation is worth reading. Best Miyuki Miyabe books reviewed.
 head:
   - - meta
     - name: keywords
-      content: Puppet Master, Miyuki Miyabe, Japanese mystery, copycat crimes, media manipulation, book review
+      content: Puppet Master Miyuki Miyabe review, Puppet Master worth reading, Japanese psychological thriller review, best Miyuki Miyabe books, Japanese crime novels recommendations, media manipulation thriller, copycat crimes fiction, Puppet Master good book
+  - - meta
+    - property: og:title
+      content: Puppet Master by Miyuki Miyabe Review - Is This Media Thriller Worth Reading?
+  - - meta
+    - property: og:description
+      content: Detailed review of Miyuki Miyabe's epic thriller about media manipulation. Why Puppet Master is essential reading for crime fiction fans.
+  - - meta
+    - name: twitter:title
+      content: Puppet Master by Miyuki Miyabe Review - Worth Reading?
+  - - meta
+    - name: twitter:description
+      content: Honest review of Miyabe's epic media manipulation thriller. A devastating critique of modern society.
 ---
 
 <script setup>

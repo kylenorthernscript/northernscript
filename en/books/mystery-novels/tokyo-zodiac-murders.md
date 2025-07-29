@@ -1,11 +1,23 @@
 ---
 layout: doc
-title: The Tokyo Zodiac Murders - Personal Review
-description: A Japanese reader's perspective on Shimada's impossible crime masterpiece that launched the shin honkaku movement and redefined puzzle mysteries.
+title: The Tokyo Zodiac Murders Review - Is This Japanese Locked Room Mystery Worth Reading?
+description: Honest review of The Tokyo Zodiac Murders by Soji Shimada. Why this impossible crime mystery is worth reading. Best Japanese locked room mysteries reviewed.
 head:
   - - meta
     - name: keywords
-      content: Tokyo Zodiac Murders, Soji Shimada, Japanese mystery, honkaku, impossible crime, locked room, book review
+      content: Tokyo Zodiac Murders review, Soji Shimada worth reading, Japanese locked room mystery review, best impossible crime novels, shin honkaku mystery books, Tokyo Zodiac Murders good book, Japanese puzzle mysteries, locked room mystery recommendations
+  - - meta
+    - property: og:title
+      content: The Tokyo Zodiac Murders Review - Is This Impossible Crime Mystery Worth Reading?
+  - - meta
+    - property: og:description
+      content: Detailed review of Soji Shimada's impossible crime masterpiece. Why The Tokyo Zodiac Murders launched the shin honkaku movement.
+  - - meta
+    - name: twitter:title
+      content: The Tokyo Zodiac Murders Review - Worth Reading?
+  - - meta
+    - name: twitter:description
+      content: Honest review of Shimada's locked room mystery masterpiece. The impossible crime that launched a movement.
 ---
 
 <script setup>

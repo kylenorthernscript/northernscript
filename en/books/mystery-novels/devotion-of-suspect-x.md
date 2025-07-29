@@ -1,11 +1,23 @@
 ---
 layout: doc
-title: The Devotion of Suspect X - Personal Review
-description: A Japanese reader's perspective on Keigo Higashino's masterpiece that redefined what mathematical precision could bring to mystery fiction.
+title: The Devotion of Suspect X Review - Is Keigo Higashino Worth Reading?
+description: Honest review of The Devotion of Suspect X by Keigo Higashino. Why this Japanese mystery novel is essential reading and worth your time. Best translated Japanese detective fiction.
 head:
   - - meta
     - name: keywords
-      content: Devotion of Suspect X, Keigo Higashino, Japanese mystery, book review, Galileo series
+      content: The Devotion of Suspect X review, Keigo Higashino worth reading, Japanese mystery novels review, best Japanese detective fiction, Devotion of Suspect X good book, Japanese crime novels recommendations, Detective Galileo series review, translated Japanese mysteries
+  - - meta
+    - property: og:title
+      content: The Devotion of Suspect X Review - Is This Japanese Mystery Worth Reading?
+  - - meta
+    - property: og:description
+      content: Detailed review of Keigo Higashino's masterpiece. Why The Devotion of Suspect X is considered the best introduction to Japanese mystery fiction.
+  - - meta
+    - name: twitter:title
+      content: The Devotion of Suspect X Review - Worth Reading?
+  - - meta
+    - name: twitter:description
+      content: Honest review of Keigo Higashino's psychological mystery masterpiece. Perfect introduction to Japanese detective fiction.
 ---
 
 # The Devotion of Suspect X (容疑者Xの献身)
@@ -56,9 +68,9 @@ head:
   </div>
 </div>
 
-## My Personal Take
+## Is The Devotion of Suspect X Worth Reading? My Honest Review
 
-When I first read 『容疑者Xの献身』in Japanese, I was working late nights as a software developer, and the protagonist Ishigami's methodical, isolated life resonated deeply. Here was a mathematical genius reduced to teaching high school, living for nothing but pure mathematics—until love gives his life meaning in the most tragic way possible.
+**For English readers wondering if this Japanese mystery is worth your time: absolutely yes.** When I first read The Devotion of Suspect X (『容疑者Xの献身』) in Japanese, I was working late nights as a software developer, and the protagonist Ishigami's methodical, isolated life resonated deeply. Here was a mathematical genius reduced to teaching high school, living for nothing but pure mathematics—until love gives his life meaning in the most tragic way possible.
 
 What struck me most wasn't just the clever plot (though it is devastatingly clever), but how Higashino uses mathematics as a metaphor for human emotion. Ishigami approaches love like a mathematical proof: absolute, unwavering, following its logic to the inevitable conclusion regardless of the cost. As someone who's worked with logic and code, I understood his mindset intimately—and that made the ending hit even harder.
 
