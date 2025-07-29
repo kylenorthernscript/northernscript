@@ -166,6 +166,7 @@ export default defineConfig({
     ['meta', { name: 'twitter:title', content: 'Northern Script' }],
     ['meta', { name: 'twitter:description', content: 'のーざんすくりぷと - プログラミング、AI、執筆に関する技術書や記事を公開しています' }],
     ['meta', { name: 'twitter:image', content: 'https://blogs.northernscript.jp/ns_hero.png' }],
+    ['meta', { name: 'p:domain_verify', content: '52ec38730f6adfa767884ca47972b03b' }],
     ['link', { rel: 'icon', type: 'image/png', href: '/ns_hero.png' }],
     ['link', { rel: 'canonical', href: 'https://blogs.northernscript.jp' }],
     ['link', { rel: 'alternate', hreflang: 'ja', href: 'https://blogs.northernscript.jp/' }],
