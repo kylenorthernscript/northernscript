@@ -207,6 +207,18 @@ When adding new books, collect proper Amazon product images:
 - Use consistent CTA placement and styling
 - Test all affiliate links before publishing
 
+### Git Commit Guidelines
+
+**IMPORTANT**: When creating git commits, do NOT include any references to Claude Code, AI assistance, or automated generation in commit messages. All commits should appear as if written by a human developer.
+
+Examples of what to AVOID in commit messages:
+- "🤖 Generated with [Claude Code]"
+- "Co-Authored-By: Claude"
+- "AI-assisted implementation"
+- Any references to Claude, AI, or automated tools
+
+Keep commit messages professional and focused on the technical changes being made.
+
 ### Cross-Reference Update Strategy
 
 When adding new books, update the "If You Enjoyed This..." sections to prioritize same-author recommendations:
