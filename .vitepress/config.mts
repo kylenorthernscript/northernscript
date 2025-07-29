@@ -134,6 +134,7 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Travel Guides', link: '/en/travel/' },
+          { text: 'Book Recommendations', link: '/en/books/mystery-novels' },
           { text: 'Work with Me', link: '/en/contact' },
           { text: '日本語', link: '/' }
         ]
@@ -214,6 +215,28 @@ export default defineConfig({
       prev: "前のページ", next: "次のページ"
     },
     sidebar: {
+      '/en/books/': [
+        {
+          text: '📚 Japanese Mystery Novels',
+          collapsed: false,
+          items: [
+            { text: 'Overview', link: '/en/books/mystery-novels' },
+            { 
+              text: 'Book Reviews',
+              collapsed: false,
+              items: [
+                { text: 'The Devotion of Suspect X', link: '/en/books/mystery-novels/devotion-of-suspect-x' },
+                { text: 'Malice', link: '/en/books/mystery-novels/malice' },
+                { text: 'Journey Under the Midnight Sun', link: '/en/books/mystery-novels/journey-under-midnight-sun' },
+                { text: 'Puppet Master', link: '/en/books/mystery-novels/puppet-master' },
+                { text: 'The Tokyo Zodiac Murders', link: '/en/books/mystery-novels/tokyo-zodiac-murders' },
+                { text: 'The Decagon House Murders', link: '/en/books/mystery-novels/decagon-house-murders' },
+                { text: 'Six Four', link: '/en/books/mystery-novels/six-four' }
+              ]
+            }
+          ]
+        }
+      ],
       '/en/': [],
       '/': getOrganizedSidebar()
     },

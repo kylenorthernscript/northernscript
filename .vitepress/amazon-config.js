@@ -1,0 +1,119 @@
+// Amazon Associates Configuration
+// Replace YOUR-ASSOCIATE-ID-20 with your actual Amazon Associates ID
+
+export const AMAZON_CONFIG = {
+  associateId: 'northernscrip-20',
+  marketplace: 'amazon.com', // or amazon.co.jp, amazon.co.uk, etc.
+  
+  // Book database
+  books: {
+    'devotion-of-suspect-x': {
+      title: 'The Devotion of Suspect X',
+      author: 'Keigo Higashino',
+      translator: 'Alexander O. Smith',
+      asin: '1250002699',
+      imageUrl: 'https://m.media-amazon.com/images/I/81FxuHgUMuL._SL1500_.jpg',
+      priceFrom: '$12.99',
+      formats: ['Kindle', 'Paperback', 'Hardcover'],
+      pages: 298,
+      publisher: 'Minotaur Books',
+      publishDate: '2011-02-01',
+      rating: 4.3,
+      reviews: 2847
+    },
+    'journey-under-midnight-sun': {
+      title: 'Journey Under the Midnight Sun',
+      author: 'Keigo Higashino',
+      translator: 'Alexander O. Smith',
+      asin: '0349142815',
+      imageUrl: 'https://m.media-amazon.com/images/I/81Xan3GQbDL._SL1500_.jpg',
+      priceFrom: '$14.99',
+      formats: ['Kindle', 'Paperback'],
+      pages: 576,
+      publisher: 'Abacus',
+      publishDate: '2016-11-01',
+      rating: 4.2,
+      reviews: 1543
+    },
+    'malice': {
+      title: 'Malice',
+      author: 'Keigo Higashino',
+      translator: 'Alexander O. Smith with Elye J. Alexander',
+      asin: '1250035600',
+      imageUrl: 'https://m.media-amazon.com/images/I/81Q1n36TGxL._SL1500_.jpg',
+      priceFrom: '$13.99',
+      formats: ['Kindle', 'Paperback', 'Hardcover'],
+      pages: 304,
+      publisher: 'Minotaur Books',
+      publishDate: '2014-10-14',
+      rating: 4.1,
+      reviews: 1829
+    },
+    'puppet-master': {
+      title: 'Puppet Master',
+      author: 'Miyuki Miyabe',
+      translator: 'Alfred Birnbaum',
+      asin: '0316666378',
+      imageUrl: 'https://m.media-amazon.com/images/I/91lh6DVQZFL._SL1500_.jpg',
+      priceFrom: '$16.99',
+      formats: ['Kindle', 'Paperback'],
+      pages: 512,
+      publisher: 'Back Bay Books',
+      publishDate: '2007-05-01',
+      rating: 4.2,
+      reviews: 856
+    },
+    'tokyo-zodiac-murders': {
+      title: 'The Tokyo Zodiac Murders',
+      author: 'Soji Shimada',
+      translator: 'Ross MacKenzie & Shika MacKenzie',
+      asin: '1782271430',
+      imageUrl: 'https://m.media-amazon.com/images/I/91VVIpV3ZXL._SL1500_.jpg',
+      priceFrom: '$13.99',
+      formats: ['Kindle', 'Paperback'],
+      pages: 352,
+      publisher: 'Pushkin Vertigo',
+      publishDate: '2015-12-03',
+      rating: 4.0,
+      reviews: 945
+    },
+    'decagon-house-murders': {
+      title: 'The Decagon House Murders',
+      author: 'Yukito Ayatsuji',
+      translator: 'Ho-Ling Wong',
+      asin: '1782276343',
+      imageUrl: 'https://m.media-amazon.com/images/I/71D50x3iVuL._SL1500_.jpg',
+      priceFrom: '$15.99',
+      formats: ['Kindle', 'Paperback'],
+      pages: 256,
+      publisher: 'Pushkin Vertigo',
+      publishDate: '2020-12-03',
+      rating: 4.4,
+      reviews: 672
+    },
+    'six-four': {
+      title: 'Six Four',
+      author: 'Hideo Yokoyama',
+      translator: 'Jonathan Lloyd-Davies',
+      asin: '0374536557',
+      imageUrl: 'https://m.media-amazon.com/images/I/81Mo61pN39L._SL1500_.jpg',
+      priceFrom: '$17.99',
+      formats: ['Kindle', 'Paperback', 'Hardcover'],
+      pages: 656,
+      publisher: 'Farrar, Straus and Giroux',
+      publishDate: '2016-11-08',
+      rating: 4.2,
+      reviews: 1234
+    }
+  }
+};
+
+// Generate Amazon affiliate URL
+export function generateAmazonURL(asin, associateId = AMAZON_CONFIG.associateId) {
+  return `https://www.${AMAZON_CONFIG.marketplace}/dp/${asin}?tag=${associateId}`;
+}
+
+// Get book data by key
+export function getBook(bookKey) {
+  return AMAZON_CONFIG.books[bookKey] || null;
+}
