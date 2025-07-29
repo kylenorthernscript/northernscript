@@ -118,6 +118,20 @@ export const AMAZON_CONFIG = {
       publishDate: '2014-10-21',
       rating: 4.0,
       reviews: 892
+    },
+    'murder-crooked-house': {
+      title: 'Murder in the Crooked House',
+      author: 'Soji Shimada',
+      translator: 'Louise Heal Kawai',
+      asin: '1782275061',
+      imageUrl: '/images/books/murder-crooked-house.jpg',
+      priceFrom: '$13.99',
+      formats: ['Kindle', 'Paperback'],
+      pages: 288,
+      publisher: 'Pushkin Vertigo',
+      publishDate: '2019-11-07',
+      rating: 4.1,
+      reviews: 743
     }
   }
 };

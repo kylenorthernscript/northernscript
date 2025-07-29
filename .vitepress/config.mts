@@ -232,6 +232,7 @@ export default defineConfig({
                 { text: 'Journey Under the Midnight Sun', link: '/en/books/mystery-novels/journey-under-midnight-sun' },
                 { text: 'Puppet Master', link: '/en/books/mystery-novels/puppet-master' },
                 { text: 'The Tokyo Zodiac Murders', link: '/en/books/mystery-novels/tokyo-zodiac-murders' },
+                { text: 'Murder in the Crooked House', link: '/en/books/mystery-novels/murder-crooked-house' },
                 { text: 'The Decagon House Murders', link: '/en/books/mystery-novels/decagon-house-murders' },
                 { text: 'The Perfect Insider', link: '/en/books/mystery-novels/perfect-insider' },
                 { text: 'Six Four', link: '/en/books/mystery-novels/six-four' }

@@ -127,6 +127,18 @@ Each book has its own page where I share:
 </div>
 
 <div class="book-recommendation">
+  <img src="/images/books/murder-crooked-house.jpg" 
+       alt="Murder in the Crooked House by Soji Shimada" 
+       loading="lazy">
+  <div class="book-summary">
+    <h4><a href="/en/books/mystery-novels/murder-crooked-house">Murder in the Crooked House</a></h4>
+    <p class="author">Soji Shimada (島田荘司)</p>
+    <p class="teaser">The book that made me a mystery addict—an absurd tilted house with an even more absurd (but brilliant) solution.</p>
+    <a href="/en/books/mystery-novels/murder-crooked-house" class="read-more">Read my full review →</a>
+  </div>
+</div>
+
+<div class="book-recommendation">
   <img src="/images/books/all-becomes-f.jpg" 
        alt="The Perfect Insider by Hiroshi Mori" 
        loading="lazy">
