@@ -235,7 +235,9 @@ export default defineConfig({
                 { text: 'Murder in the Crooked House', link: '/en/books/mystery-novels/murder-crooked-house' },
                 { text: 'The Decagon House Murders', link: '/en/books/mystery-novels/decagon-house-murders' },
                 { text: 'The Perfect Insider', link: '/en/books/mystery-novels/perfect-insider' },
-                { text: 'Six Four', link: '/en/books/mystery-novels/six-four' }
+                { text: 'Six Four', link: '/en/books/mystery-novels/six-four' },
+                { text: 'Confessions', link: '/en/books/mystery-novels/confessions' },
+                { text: 'The Mill House Murders', link: '/en/books/mystery-novels/mill-house-murders' }
               ]
             }
           ]

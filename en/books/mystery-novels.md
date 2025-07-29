@@ -162,6 +162,18 @@ Each book has its own page where I share:
   </div>
 </div>
 
+<div class="book-recommendation">
+  <img src="/images/books/mill-house-murders.jpg" 
+       alt="The Mill House Murders by Yukito Ayatsuji" 
+       loading="lazy">
+  <div class="book-summary">
+    <h4><a href="/en/books/mystery-novels/mill-house-murders">The Mill House Murders</a></h4>
+    <p class="author">Yukito Ayatsuji (綾辻行人)</p>
+    <p class="teaser">The brilliant follow-up to Decagon House Murders—masterful mystery construction in an atmospheric mansion setting.</p>
+    <a href="/en/books/mystery-novels/mill-house-murders" class="read-more">Read my full review →</a>
+  </div>
+</div>
+
 ### Police & Social Mysteries
 
 <div class="book-recommendation">
@@ -173,6 +185,20 @@ Each book has its own page where I share:
     <p class="author">Hideo Yokoyama (横山秀夫)</p>
     <p class="teaser">More than a police procedural—a devastating portrait of institutional failure and personal redemption in modern Japan.</p>
     <a href="/en/books/mystery-novels/six-four" class="read-more">Read my full review →</a>
+  </div>
+</div>
+
+### Dark Psychology
+
+<div class="book-recommendation">
+  <img src="/images/books/confessions.jpg" 
+       alt="Confessions by Kanae Minato" 
+       loading="lazy">
+  <div class="book-summary">
+    <h4><a href="/en/books/mystery-novels/confessions">Confessions</a></h4>
+    <p class="author">Kanae Minato (湊かなえ)</p>
+    <p class="teaser">The dark masterpiece that pioneered Japan's iyamisu genre—a perfect story expanded into a perfect collection.</p>
+    <a href="/en/books/mystery-novels/confessions" class="read-more">Read my full review →</a>
   </div>
 </div>
 

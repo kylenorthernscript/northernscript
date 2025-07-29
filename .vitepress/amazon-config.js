@@ -132,6 +132,34 @@ export const AMAZON_CONFIG = {
       publishDate: '2019-11-07',
       rating: 4.1,
       reviews: 743
+    },
+    'confessions': {
+      title: 'Confessions',
+      author: 'Kanae Minato',
+      translator: 'Stephen Snyder',
+      asin: '0316200921',
+      imageUrl: '/images/books/confessions.jpg',
+      priceFrom: '$14.99',
+      formats: ['Kindle', 'Paperback', 'Hardcover'],
+      pages: 240,
+      publisher: 'Mulholland Books',
+      publishDate: '2014-08-05',
+      rating: 4.0,
+      reviews: 2156
+    },
+    'mill-house-murders': {
+      title: 'The Mill House Murders',
+      author: 'Yukito Ayatsuji',
+      translator: 'Ho-Ling Wong',
+      asin: '1782278184',
+      imageUrl: '/images/books/mill-house-murders.jpg',
+      priceFrom: '$15.99',
+      formats: ['Kindle', 'Paperback'],
+      pages: 288,
+      publisher: 'Pushkin Vertigo',
+      publishDate: '2021-07-08',
+      rating: 4.1,
+      reviews: 387
     }
   }
 };
