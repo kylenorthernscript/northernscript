@@ -18,6 +18,20 @@ hero:
 
 ## 技術書典書籍
 
+### 技術書典19（2025年11月）
+
+<div class="book-grid">
+  <a href="/books/technical/nazo-game" class="book-item-link" aria-label="街歩き謎解きゲームをゼロから作ってみたの詳細を見る">
+    <article class="book-item">
+      <img src="/nazo-cover.jpg" alt="街歩き謎解きゲームをゼロから作ってみたの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+      <div class="book-info">
+        <h4>街歩き謎解きゲームをゼロから作ってみた</h4>
+        <span class="book-link" role="button">詳細を見る</span>
+      </div>
+    </article>
+  </a>
+</div>
+
 ### 技術書典18（2025年5月）
 
 <div class="book-grid">
