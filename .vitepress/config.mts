@@ -30,6 +30,13 @@ function getOrganizedSidebar() {
       collapsed: false,
       items: [
         {
+          text: '技術書典19（2025年11月）',
+          collapsed: false,
+          items: [
+            { text: '街歩き謎解きゲームをゼロから作ってみた', link: '/books/technical/nazo-game' }
+          ]
+        },
+        {
           text: '技術書典18（2025年5月）',
           collapsed: false,
           items: [
