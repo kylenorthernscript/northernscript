@@ -18,6 +18,20 @@ hero:
 
 ## 技術書典書籍
 
+### 技術書典20（2026年5月）
+
+<div class="book-grid">
+  <a href="/books/technical/ai-readable-tech" class="book-item-link" aria-label="AIに読まれる技術の詳細を見る">
+    <article class="book-item">
+      <img src="/aio-cover.jpg" alt="AIに読まれる技術 LLMO・AEO・GEOで実現する次世代の情報設計の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+      <div class="book-info">
+        <h4>AIに読まれる技術 ── LLMO・AEO・GEOで実現する次世代の情報設計</h4>
+        <span class="book-link" role="button">詳細を見る</span>
+      </div>
+    </article>
+  </a>
+</div>
+
 ### 技術書典19（2025年11月）
 
 <div class="book-grid">
@@ -148,6 +162,15 @@ hero:
 ### 技術の泉シリーズ
 
 <div class="book-grid">
+  <a href="/books/technical/github-practical-intro" class="book-item-link" aria-label="GitHub実践入門の詳細を見る">
+    <article class="book-item">
+      <img src="/github-practical-cover.jpg" alt="GitHub実践入門 チーム開発を成功に導くためのブランチ戦略とコードレビューの表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+      <div class="book-info">
+        <h4>GitHub実践入門 チーム開発を成功に導くためのブランチ戦略とコードレビュー</h4>
+        <span class="book-link" role="button">詳細を見る</span>
+      </div>
+    </article>
+  </a>
   <a href="/books/technical/storyblok-commercial" class="book-item-link" aria-label="高機能ヘッドレスCMS『Storyblok』入門の詳細を見る">
     <article class="book-item">
       <img src="/storyblok-book-cover.webp" alt="高機能ヘッドレスCMS『Storyblok』入門の表紙" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
