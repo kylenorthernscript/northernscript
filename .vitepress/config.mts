@@ -30,6 +30,13 @@ function getOrganizedSidebar() {
       collapsed: false,
       items: [
         {
+          text: '技術書典20（2026年5月）',
+          collapsed: false,
+          items: [
+            { text: 'AIに読まれる技術 ── LLMO・AEO・GEOで実現する次世代の情報設計', link: '/books/technical/ai-readable-tech' }
+          ]
+        },
+        {
           text: '技術書典19（2025年11月）',
           collapsed: false,
           items: [
@@ -91,6 +98,7 @@ function getOrganizedSidebar() {
           text: '技術の泉シリーズ',
           collapsed: false,
           items: [
+            { text: 'GitHub実践入門 ブランチ戦略とコードレビュー', link: '/books/technical/github-practical-intro' },
             { text: '高機能ヘッドレスCMS『Storyblok』入門', link: '/books/technical/storyblok-commercial' },
             { text: 'ChatGPTと語りながら作るJamstack入門', link: '/books/technical/chatgpt-jamstack-commercial' },
             { text: 'バックエンドエンジニアによる初めてのJamstack', link: '/books/technical/jamstack-backend-engineer' }

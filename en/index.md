@@ -81,9 +81,19 @@ Northern Script is the professional brand of **Kaoru "Kyle" Omiya**, a multiface
 
 ### Commercial Publications
 
-**🏆 Over 11 technical books published since 2022**
+**🏆 Over 13 technical books published since 2022**
 
 <div class="book-grid">
+  <a href="https://nextpublishing.jp/book/19199.html" class="book-item-link" target="_blank" rel="noopener noreferrer" aria-label="View GitHub Practical Guide (Japanese)">
+    <article class="book-item">
+      <img src="/github-practical-cover.jpg" alt="GitHub Practical Guide - Branch Strategies and Code Reviews for Team Development" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
+      <div class="book-info">
+        <h4>GitHub Practical Guide</h4>
+        <p class="book-subtitle">Branch Strategies & Code Reviews for Team Development</p>
+        <span class="book-link" role="button">View on Publisher Site (Japanese)</span>
+      </div>
+    </article>
+  </a>
   <a href="https://nextpublishing.jp/book/17868.html" class="book-item-link" target="_blank" rel="noopener noreferrer" aria-label="View Storyblok Guide (Japanese)">
     <article class="book-item">
       <img src="/storyblok-book-cover.webp" alt="Advanced Headless CMS Storyblok Guide (Nuxt 3 Compatible)" class="book-cover" width="60" height="80" loading="lazy" decoding="async" fetchpriority="low">
@@ -118,9 +128,36 @@ Northern Script is the professional brand of **Kaoru "Kyle" Omiya**, a multiface
 
 ### Technical Conference Publications
 
-**🎯 Specialized in Jamstack, Modern Web Development, and DevOps**
+**🎯 Specialized in Jamstack, AI, Modern Web Development, and DevOps**
 
 <div class="conference-grid">
+  <div class="conference-section">
+    <h4>📅 Technical Book Fair 20 (May 2026)</h4>
+    <div class="book-mini-grid">
+      <div class="book-mini-item">
+        <img src="/aio-cover.jpg" alt="The Art of Being Read by AI" class="book-mini-cover" width="40" height="53" loading="lazy">
+        <div class="book-mini-info">
+          <h5>The Art of Being Read by AI</h5>
+          <p>Next-Gen Information Architecture with LLMO, AEO & GEO</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="conference-section">
+    <h4>📅 Technical Book Fair 19 (November 2025)</h4>
+    <div class="book-mini-grid">
+      <div class="book-mini-item">
+        <img src="/nazo-cover.jpg" alt="Building a Location-Based Mystery Game from Scratch" class="book-mini-cover" width="40" height="53" loading="lazy">
+        <div class="book-mini-info">
+          <h5><a href="https://techbookfest.org/product/bLHbQVbxKCVTv4LcDU8Rvz?productVariantID=4K1k46d5a5kfp5uTVfLLkN" target="_blank" rel="noopener noreferrer">Building a Location-Based Mystery Game from Scratch</a></h5>
+          <p>Experience Design & Web Implementation in Real City Streets</p>
+          <span class="purchase-link">📚 Available on TechBookFest</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="conference-section">
     <h4>📅 Technical Book Fair 18 (May 2025)</h4>
     <div class="book-mini-grid">
