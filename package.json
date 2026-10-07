@@ -6,10 +6,8 @@
     "optimize:images": "node optimize-images.js"
   },
   "devDependencies": {
-    "@catppuccin/vitepress": "^0.1.2",
-    "vitepress": "^1.6.3"
-  },
-  "dependencies": {
-    "gray-matter": "^4.0.3"
+    "@catppuccin/vitepress": "^0.1.4",
+    "sharp": "^0.35.5",
+    "vitepress": "^1.6.4"
   }
 }
